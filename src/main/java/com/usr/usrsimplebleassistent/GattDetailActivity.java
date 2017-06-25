@@ -236,6 +236,7 @@ public class GattDetailActivity extends MyBaseActivity {
                                     if(receivedlist.size() > 5){
                                         receivedreallength = Integer.parseInt((receivedlist.get(1)+receivedlist.get(2)).replaceAll(" ", ""),16);
 
+
                                     }else{
                                         return;
                                     }
