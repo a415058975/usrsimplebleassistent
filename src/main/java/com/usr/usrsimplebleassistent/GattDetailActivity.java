@@ -92,12 +92,16 @@ public class GattDetailActivity extends MyBaseActivity {
     View filterView;
 
     private boolean issendable = true;
-    private int getcountc ;
+
     private String gjid ="";
     private String gjst ="";
     private String tmp ="";
-    private byte receive[] = {};
-    private char receivedindex=0;
+    //private byte receive[] = {};
+    private List<String> receivedlist = new ArrayList<String>();
+    private int receivedlistindex = 0;
+    private int getarrayindex = 0 ;
+    private int receivedreallength = 0;
+
 
     private DianchiRequest dianchibean;
     private DianchiRespones dcrprs;
@@ -107,7 +111,6 @@ public class GattDetailActivity extends MyBaseActivity {
     private WaisheRespones wsrprs ;
 
     //private byte[] dianchib=new byte[512];
-    private List<Byte> received ;
     private int dianchiblen = 0;
     private int dianchibindex = 0;
     private byte nowsento ;
@@ -225,326 +228,23 @@ public class GattDetailActivity extends MyBaseActivity {
                             //getcount++;
                             if (isDebugMode){
                                 byte[] array = intent.getByteArrayExtra(Constants.EXTRA_BYTE_VALUE);
-                                //System.out.println("erwerrvwerw:"+getcountc+":"+Utils.ByteArraytoHex(array));
-                                //for(int i=0;i<array.length;i++){
-                                    //System.arraycopy(receive,0,array,0,length);
-                                    //System.out.println("数组:"+array[i]);
-                                    System.arraycopy(array, 0, receive, receivedindex, array.length);
-                                    //receive[receivedindex++] = array[i];
-                                    System.out.println("当前长度："+receivedindex);
-                               // }
-                                System.out.println("in:"+getcountc+":"+Utils.ByteArraytoHex(array));
-                                //getcountc++;
-                                if(getcountc == 0 ){
-                                    //gjid="";
-                                    gjst="";
-                                    receive=null;
-                                    dianchibean = new DianchiRequest();
-                                    gongjubean = new GongjuRequest();
-                                    waishebean = new WaisheRequest();
-                                }
+                                if(getarrayindex == 0){
+                                    for(int i = 0;i<array.length;i++){
+                                        byte[] arrayone ={array[i]};
+                                        receivedlist.add(receivedlistindex++,Utils.ByteArraytoHex(arrayone).trim().replaceAll(" ", ""));
+                                    }
+                                    if(receivedlist.size() > 5){
+                                        receivedreallength = Integer.parseInt((receivedlist.get(1)+receivedlist.get(2)).replaceAll(" ", ""),16);
 
-                                getcountc++;
-                                if(getcountc == 4){
-                                    alertwhat = Utils.ByteArraytoHex(array);
-                                }
-                                if(getcountc == 5){
-                                    if(Utils.ByteArraytoHex(array).trim().equals("20")){
-                                        whichoperation = 20;
-                                    }else if(Utils.ByteArraytoHex(array).trim().equals("21")){
-                                        whichoperation = 21;
-                                    }else if(Utils.ByteArraytoHex(array).trim().equals("22")){
-                                        whichoperation = 22;
+                                    }else{
+                                        return;
                                     }
-                                   // System.out.println(getcountc+":whichoperation:"+Utils.ByteArraytoHex(array));
-                                    //whichoperation = Integer.parseInt(Utils.byteToASCII(array).trim());
-                                    //System.out.println(getcountc+":whichoperation:"+whichoperation);
-                                }
-                                if(getcountc == 6){
-                                    if(Utils.ByteArraytoHex(array).trim().equals("00")){
-                                        istouchuan = true;
-                                    }
-                                    if(Utils.ByteArraytoHex(array).trim().equals("01")){
-                                        istouchuan = false;
-                                    }
-                                    // System.out.println(getcountc+":whichoperation:"+Utils.ByteArraytoHex(array));
-                                    //whichoperation = Integer.parseInt(Utils.byteToASCII(array).trim());
-                                    //System.out.println(getcountc+":whichoperation:"+whichoperation);
-                                }
-                                if(whichoperation == 20){
-                                  //if(true){
-                                    if(getcountc >= 7 && getcountc <= 22){
-                                        tmp += Utils.ByteArraytoHex(array);
-                                        if(getcountc == 22){
-                                            //dianchibean.setBatteryID(Utils.ByteArrToIntStr(tmp.getBytes()));
-                                            dianchibean.setBatteryID(""+tmp.replaceAll(" ", ""));
-                                            tmp= "";
-                                        }
-                                    }
-                                    if(getcountc == 23){
-                                        dianchibean.setBatteryString(""+Utils.ByteArrToIntStr(array));
-                                    }
-                                    if(getcountc == 24){
-                                        dianchibean.setBatteryStatus(""+Utils.ByteArrToIntStr(array));
-                                    }
-                                    if(getcountc >= 25 && getcountc <= 28){
-                                        tmp += Utils.ByteArraytoHex(array);
-                                        if(getcountc == 28){
-                                            dianchibean.setTotalVoltage(""+Integer.parseInt(tmp.replaceAll(" ", ""),16));
-                                            tmp = "";
-                                        }
-                                    }
-                                    if(getcountc == 29){
-                                        dianchibean.setSocElePercentage(""+Utils.ByteArrToIntStr(array));
-                                    }
-                                    if(getcountc >=30 && getcountc <=33){
-                                        tmp += Utils.ByteArraytoHex(array);
-                                        if(getcountc == 33){
-                                            dianchibean.setElectricity(""+Long.parseLong(tmp.replaceAll(" ", ""),16));
-                                            tmp = "";
-                                        }
-                                    }
-                                    if(getcountc >=34 && getcountc <=35){
-                                        tmp += Utils.ByteArraytoHex(array);
-                                        if(getcountc == 35){
-                                            dianchibean.setResiduallife(""+Long.parseLong(tmp.replaceAll(" ", ""),16));
-                                            tmp = "";
-                                        }
-                                    }
-                                    if(getcountc == 36){
-                                        dianchibean.setMaxTemperature(""+Utils.ByteArrToIntStr(array));
-                                    }
-                                    if(getcountc >=37 && getcountc <=116){
-                                        tmp += Utils.byteToASCII(array);
-                                        if(getcountc == 116){
-                                            dianchibean.setMonomerVoltage(""+tmp.replaceAll(" ", ""));
-                                            tmp = "";
-                                        }
-                                    }
-                                    if(getcountc >=117 && getcountc <=126){
-                                        tmp += Utils.byteToASCII(array);
-                                        if(getcountc == 126){
-                                            dianchibean.setSensorTemperature(""+tmp.replaceAll(" ", ""));
-                                            tmp = "";
-                                        }
-//                                        tmp += Utils.ByteArraytoHex(array);
-//                                        if(getcountc == 126){
-//                                            dianchibean.setSensorTemperature(""+tmp.replaceAll(" ", ""));
-//                                            tmp = "";
-//                                        }
-                                    }
-                                    if(getcountc == 127){
-                                        dianchibean.setBatteryLockStatus(""+Utils.ByteArrToIntStr(array));
-                                    }
-                                    if(getcountc >=128 && getcountc <=129){
-                                        tmp += Utils.ByteArraytoHex(array);
-                                        if(getcountc == 129){
-                                            dianchibean.setCumulativeNum(""+Long.parseLong(tmp.replaceAll(" ", ""),16));
-                                            tmp = "";
-                                        }
-                                    }
-                                    if(getcountc == 130){
-                                        dianchibean.setBatteryPackVs(""+Utils.ByteArrToIntStr(array));
-                                    }if(getcountc == 131){
-                                        System.out.println("接受结果："+getcountc);
-                                    }if(getcountc == 132){
-                                        getcountc = 0;
-                                        for (byte b : receive) {
-                                            System.out.println(""+b);
-                                        }
-                                        String showresult = "";
-                                        showresult += "电池ID:" + dianchibean.getBatteryID().trim() + "\n";
-                                        showresult += "电池串数:" + dianchibean.getBatteryString().trim() + "\n";
-                                        if(dianchibean.getBatteryStatus().trim().equals("00")){
-                                            showresult += "当前电池状态:断电" + "\n";
-                                        }else{
-                                            showresult += "当前电池状态:充电" + "\n";
-                                        }
-                                        showresult += "当前总电压:" + dianchibean.getTotalVoltage().trim() + "mV\n";
-                                        showresult += "当前SOC电量百分比:" + dianchibean.getSocElePercentage().trim() + "%\n";
-                                        showresult += "当前电流:" + dianchibean.getElectricity().trim() + "ma\n";
-                                        showresult += "当前剩余寿命:" + dianchibean.getResiduallife().trim() + "\n";
-                                        showresult += "当前最高温度:" + dianchibean.getMaxTemperature() + "℃\n";
-                                        showresult += "单体电压:" + dianchibean.getMonomerVoltage().trim().replaceAll("(.{2})","$1 ") + "(单位:mv)\n";
-                                        showresult += "传感器温度:" + dianchibean.getSensorTemperature().trim() + "(单位:℃)\n";
-                                        showresult += "电池锁状态:" + dianchibean.getBatteryLockStatus() + "\n";
-                                        showresult += "充放电累计:" + dianchibean.getCumulativeNum() + "\n";
-                                        showresult += "电池包固件版本:" + dianchibean.getBatteryPackVs() + "\n";
-                                        System.out.println("aaaaaaaaa"+dianchibean.getTotalVoltage().trim());
-                                        dianchibean.setPosCode("01");
-                                        //System.out.println("编译结果:"+getcountc);
-                                        if(!istouchuan){
-                                            Message msg2 = new Message(Message.MESSAGE_TYPE.SEND,showresult);
-                                            notifyAdapter(msg2);
-                                        }
-
-                                        new Thread(sendDianchiThread).start();
-                                        Message msg3 = new Message(Message.MESSAGE_TYPE.SEND,"正在上传到服务器...");
-                                        notifyAdapter(msg3);
-                                    }
-                                }else if(whichoperation == 21){
-                                    if(getcountc >= 7 && getcountc <= 22){
-                                        tmp += Utils.ByteArraytoHex(array);
-                                        if(getcountc == 22){
-                                            gongjubean.setBatteryID(""+tmp.replaceAll(" ", ""));
-                                            tmp= "";
-                                        }
-                                    }
-                                    if(getcountc == 23){
-                                        gongjubean.setChargerStatus(""+Utils.ByteArrToIntStr(array));
-                                    }
-                                    if(getcountc == 25){
-                                        getcountc = 0;
-                                        String showresult = "";
-                                        showresult += "工具/充电器ID:" + gongjubean.getBatteryID().trim() + "\n";
-                                        if(gongjubean.getChargerStatus().trim().equals("00")){
-                                            showresult += "当前工具/充电器状态:断电" + "\n";
-                                        }else{
-                                            showresult += "当前工具/充电器状态:充电" + "\n";
-                                        }
-                                        System.out.println("编译结果:"+getcountc);
-                                        //System.out.println("showresult"+showresult);
-                                        if(!istouchuan){
-                                            Message msg2 = new Message(Message.MESSAGE_TYPE.SEND,showresult);
-                                            notifyAdapter(msg2);
-                                        }
-                                        gongjubean.setPosCode("01");
-                                        new Thread(sendGongjuThread).start();
-                                        Message msg3 = new Message(Message.MESSAGE_TYPE.SEND,"正在上传到服务器...");
-                                        notifyAdapter(msg3);
-                                    }
-                                }else if(whichoperation == 22){
-                                    if(getcountc == 7){
-                                        waishebean.setPeriFirmwareVs(""+Utils.ByteArrToIntStr(array));
-                                    }
-                                    if(getcountc == 8){
-                                        waishebean.setMotorTemperature(""+Utils.ByteArrToIntStr(array));
-                                    }
-                                    if(getcountc >= 9 && getcountc <= 10){
-                                        tmp += Utils.ByteArraytoHex(array);
-                                        if(getcountc == 10){
-                                            waishebean.setMotorSpeed(""+Long.parseLong(tmp.replaceAll(" ", ""),16));
-                                            tmp= "";
-                                        }
-                                    }
-                                    if(getcountc == 11){
-                                        waishebean.setControllerTemperature(""+Utils.ByteArrToIntStr(array));
-                                    }
-                                    if(getcountc >= 12 && getcountc <= 13){
-                                        tmp += Utils.ByteArraytoHex(array);
-                                        if(getcountc == 13){
-                                            waishebean.setWorkCurrent(""+Long.parseLong(tmp.replaceAll(" ", ""),16));
-                                            tmp= "";
-                                        }
-                                    }
-                                    if(getcountc >= 14 && getcountc <= 112){
-                                        tmp += Utils.ByteArraytoHex(array);
-                                        if(getcountc == 112){
-                                            waishebean.setReservedBit(""+tmp.replaceAll(" ", ""));
-                                            tmp= "";
-                                        }
-                                    }
-                                    if(getcountc == 114){
-                                        getcountc = 0;
-                                        String showresult = "";
-                                        showresult += "外设固件版本:" + waishebean.getPeriFirmwareVs().trim() + "\n";
-                                        showresult += "电机温度:" + waishebean.getMotorTemperature().trim() + "\n";
-                                        showresult += "电机转速:" + waishebean.getMotorSpeed().trim() + "\n";
-                                        showresult += "控制器温度:" + waishebean.getControllerTemperature().trim() + "\n";
-                                        showresult += "工作电流:" + waishebean.getWorkCurrent().trim() + "\n";
-                                        showresult += "保留位、扩展位:" + waishebean.getReservedBit().trim() + "\n";
-                                        System.out.println("编译结果:"+getcountc);
-                                        if(!istouchuan) {
-                                            Message msg2 = new Message(Message.MESSAGE_TYPE.SEND, showresult);
-                                            notifyAdapter(msg2);
-                                        }
-                                        waishebean.setPosCode("01");
-                                        new Thread(sendWaisheThread).start();
-                                        Message msg3 = new Message(Message.MESSAGE_TYPE.SEND,"正在上传到服务器...");
-                                        notifyAdapter(msg3);
-                                    }
-
                                 }
 
 
-//
-//
-//                                if(getcountc == 6){
-//                                    if((""+array).trim().equals("00")){
-//                                        Message msg2 = new Message(Message.MESSAGE_TYPE.SEND,"电池状态：断电");
-//                                        notifyAdapter(msg2);
-//                                    }else if((""+array).trim().equals("01")){
-//                                        Message msg2 = new Message(Message.MESSAGE_TYPE.SEND,"电池状态：充电");
-//                                        notifyAdapter(msg2);
-//                                    }
-//                                }
-//                                if(getcountc == 7){
-//                                    Message msg = new Message(Message.MESSAGE_TYPE.SEND,"电池已充电"+Utils.ByteArrToIntStr(array)+"次");
-//                                    notifyAdapter(msg);
-//                                }
-//                                if(getcountc == 8){
-//                                    Message msg = new Message(Message.MESSAGE_TYPE.SEND,"电池电压"+Utils.ByteArrToIntStr(array)+"V");
-//                                    notifyAdapter(msg);
-//                                }
-//                                if(getcountc == 9){
-//                                    gjst += ""+Utils.byteToASCII(array);
-//                                }
-//                                if(getcountc == 10){
-//                                    gjst += ""+Utils.byteToASCII(array);
-//                                    Message msg = new Message(Message.MESSAGE_TYPE.SEND,"电池剩余寿命"+Utils.ByteArrToIntStr(gjst.getBytes())+"小时");
-//                                    notifyAdapter(msg);
-//                                }
-//                                if(getcountc == 12){
-//                                    System.out.println("in:"+getcountc+":"+Utils.ByteArraytoHex(array));
-//                                    //gjst = ""+ Utils.byteToASCII(array);
-//                                    getcountc = 0;
-//                                    gjrq = new GongjuRequest("01",""+gjst,""+gjst);
-//                                    Message msg = new Message(Message.MESSAGE_TYPE.SEND,"上传数据到后台服务器");
-//                                    notifyAdapter(msg);
-//                                    new Thread(sendGongjuThread).start();
-//                                }
 
 
-
-//
-//                                if(nowsento == 0x20 && getcount == 3){
-//                                    dianchiblen = Integer.parseInt(""+array[0], 16);
-//                                }
-//                                if(nowsento == 0x20 && getcount  > 3 && getcount < (4+dianchiblen)){
-//                                    dianchib[dianchibindex++] = array[0];
-//                                }
-//                                if(nowsento == 0x20 && getcount  == 4+dianchiblen){
-//
-//                                }if(nowsento == 0x20 && getcount  == 5+dianchiblen){
-//                                    if(array[0] == 0x03){
-//                                        issendable = true;
-//                                    }else{
-//                                        dianchib = new byte[256];
-//                                        dianchibindex = 0;
-//                                        nowsento = 0x00;
-//                                        Message msg = new Message(Message.MESSAGE_TYPE.SEND,"校验结果错误！");
-//                                        //new Thread(sendGongjuThread).start();
-//                                        notifyAdapter(msg);
-//                                        issendable = true;
-//                                    }
-//                                }
-
-
-//                                Message msg = new Message(Message.MESSAGE_TYPE.RECEIVE,formatMsgContent(array));
-//                                notifyAdapter(msg);
-//                                if(getcountc == 25){
-//                                    getcountc = 0;
-//                                    if(gjst.trim().equals("00")){
-//                                        Message msg2 = new Message(Message.MESSAGE_TYPE.SEND,"电池id:\n"+gjid+"\n电池状态：断电");
-//                                        notifyAdapter(msg2);
-//                                    }else if(gjst.trim().equals("01")){
-//                                        Message msg2 = new Message(Message.MESSAGE_TYPE.SEND,"电池id:\n"+gjid+"\n电池状态：充电");
-//                                        notifyAdapter(msg2);
-//                                    }
-//                                    new Thread(sendGongjuThread).start();
-//                                    Message msg3 = new Message(Message.MESSAGE_TYPE.SEND,"正在上传到服务器...");
-//                                    notifyAdapter(msg3);
-//                                }
+                                getarrayindex++;
                             }else if (uuidRequired.equalsIgnoreCase(receivedUUID)) {
                                 byte[] array = intent.getByteArrayExtra(Constants.EXTRA_BYTE_VALUE);
                                 Message msg = new Message(Message.MESSAGE_TYPE.RECEIVE,formatMsgContent(array,MyApplication.serviceType));
@@ -927,8 +627,9 @@ public class GattDetailActivity extends MyBaseActivity {
 //            if(issendable){
 
 //                issendable = false;
-                getcountc = 0;
-                receivedindex = 0;
+                getarrayindex = 0;
+                receivedlistindex = 0;
+                receivedlist.clear();
                // for(int i=0;i<b.length;i++){
                     writeCharacteristic(writeCharacteristic, b);
                // }

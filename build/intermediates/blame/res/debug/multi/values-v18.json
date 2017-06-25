@@ -22,29 +22,5 @@
                 }
             }
         ]
-    },
-    {
-        "outputFile": "C:\\Users\\win\\Desktop\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 48,
-                    "endOffset": 99
-                },
-                "from": {
-                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\e7fcbfa47b3efc700521ae3ec3b2b7d7\\res\\values-v18\\values-v18.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 276,
-                        "endColumn": 48,
-                        "endOffset": 320
-                    }
-                }
-            }
-        ]
     }
 ]

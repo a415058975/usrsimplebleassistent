@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config=":MaterialDesignDialoglibrary"><source path="C:\Users\win\Desktop\usrsimplebleassistent\MaterialDesignDialoglibrary\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="C:\Users\win\Desktop\usrsimplebleassistent\src\main\assets"/><source path="C:\Users\win\Desktop\usrsimplebleassistent\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\win\Desktop\usrsimplebleassistent\src\debug\assets"/></dataSet></merger>

@@ -1,6 +1,0 @@
-COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
-FILE_PATH=C:\Users\win\Desktop\usrsimplebleassistent\MaterialDesignDialoglibrary\build\intermediates\intermediate-jars\debug\classes.jar
-FILE_HASH=f16608d8b3bc88b1f03977ccac540042e90c6559
-DX_VERSION=1.13
-JUMBO_MODE=false
-OPTIMIZE=true
