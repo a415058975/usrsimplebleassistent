@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\win\Desktop\usrsimplebleassistent\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar
+FILE_HASH=862a41aa589bf58eefd6545e3284d614742fc2c4
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

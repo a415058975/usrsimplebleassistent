@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+ <!--   <item
+        android:id="@+id/menu_usr"
+        android:icon="@mipmap/usr_logo"
+        android:title="@string/menu_usr"
+        app:showAsAction="always"/>
+        -->
+
+    <item
+        android:id="@+id/menu_share"
+        android:icon="@mipmap/ic_share_white_36dp"
+        android:title="@string/share"
+        app:showAsAction="always"/>
+</menu>

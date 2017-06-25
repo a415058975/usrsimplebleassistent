@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\win\Desktop\usrsimplebleassistent\libs\dom4j-1.6.1.jar
+FILE_HASH=5d3ccc056b6f056dbf0dddfdf43894b9065a8f94
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
