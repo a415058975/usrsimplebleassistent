@@ -1170,33 +1170,41 @@ public class GattDetailActivity extends MyBaseActivity {
             String tmp = "";
             dianchibean = new DianchiRequest();
             dianchibean.setPosCode("01");
-            for(int i=6;i<21;i++){
+            for(int i=6;i<=21;i++){
                 tmp += rlist.get(i);
             }
             dianchibean.setBatteryID(""+tmp.trim());
             tmp="";
             dianchibean.setBatteryString(""+Integer.parseInt(rlist.get(22),16));
-            tmp = (rlist.get(23)).equals("00")?"放电状态":"充电状态";
-            dianchibean.setBatteryStatus(""+tmp);
-            tmp="";
+            //tmp = (rlist.get(23)).equals("00")?"放电状态":"充电状态";
+            dianchibean.setBatteryStatus(""+rlist.get(23));
             for(int i=24;i<27;i++){
                 tmp += rlist.get(i);
             }
             dianchibean.setTotalVoltage(""+Long.parseLong(tmp.trim(),16));
             tmp="";
             dianchibean.setSocElePercentage(""+Integer.parseInt(rlist.get(28),16));
-            for(int i=29;i<32;i++){
+            for(int i=29;i<=32;i++){
                 tmp += rlist.get(i);
             }
             dianchibean.setElectricity(""+Long.parseLong(tmp.trim(),16));
             tmp = "";
             dianchibean.setResiduallife(""+Integer.parseInt((rlist.get(33)+rlist.get(34)).trim(),16));
             dianchibean.setMaxTemperature(""+Integer.parseInt(rlist.get(35),16));
-            dianchibean.setMonomerVoltage("01");
-            dianchibean.setSensorTemperature("01");
-            dianchibean.setBatteryLockStatus("01");
-            dianchibean.setCumulativeNum("01");
-            dianchibean.setBatteryPackVs("01");
+            for(int i=36;i<=115;i++){
+                tmp += rlist.get(i);
+            }
+            dianchibean.setMonomerVoltage(""+tmp);
+            tmp = "";
+            for(int i=116;i<=125;i++){
+                tmp += rlist.get(i);
+            }
+            dianchibean.setSensorTemperature(""+tmp);
+            tmp = "";
+            //tmp = (rlist.get(126)).equals("00")?"已锁定":"未锁定";
+            dianchibean.setBatteryLockStatus(""+rlist.get(126));
+            dianchibean.setCumulativeNum(""+Integer.parseInt((rlist.get(127)+rlist.get(128)).trim(),16));
+            dianchibean.setBatteryPackVs(""+Integer.parseInt(rlist.get(129).trim(),16));
 
             String showresult = "";
             showresult += "电池ID:" + dianchibean.getBatteryID().trim() + "\n";
@@ -1225,9 +1233,17 @@ public class GattDetailActivity extends MyBaseActivity {
             Message msg3 = new Message(Message.MESSAGE_TYPE.SEND,"正在上传到服务器...");
             notifyAdapter(msg3);
 
-
         }else if(whichcommand == 21){
+            String tmp = "";
             gongjubean = new GongjuRequest();
+            gongjubean.setPosCode("01");
+            for(int i=6;i<=21;i++){
+                tmp += rlist.get(i);
+            }
+            gongjubean.setBatteryID(""+tmp);
+            tmp = "";
+            gongjubean.setChargerStatus(""+rlist.get(22));
+
             String showresult = "";
             showresult += "工具/充电器ID:" + gongjubean.getBatteryID().trim() + "\n";
             if(gongjubean.getChargerStatus().trim().equals("00")){
@@ -1243,7 +1259,21 @@ public class GattDetailActivity extends MyBaseActivity {
             Message msg3 = new Message(Message.MESSAGE_TYPE.SEND,"正在上传到服务器...");
             notifyAdapter(msg3);
         }else if(whichcommand == 22){
+            String tmp = "";
             waishebean = new WaisheRequest();
+            waishebean.setPosCode("01");
+            waishebean.setPeriFirmwareVs(""+rlist.get(6));
+            waishebean.setMotorTemperature(""+rlist.get(7));
+            waishebean.setMotorSpeed(""+Integer.parseInt((rlist.get(8)+rlist.get(9)).trim(),16));
+            waishebean.setControllerTemperature(""+rlist.get(10));
+            waishebean.setWorkCurrent(""+Integer.parseInt((rlist.get(11)+rlist.get(12)).trim(),16));
+            for(int i=13;i<=111;i++){
+                tmp += rlist.get(i);
+            }
+            waishebean.setReservedBit(""+tmp);
+            tmp="";
+
+
             String showresult = "";
             showresult += "外设固件版本:" + waishebean.getPeriFirmwareVs().trim() + "\n";
             showresult += "电机温度:" + waishebean.getMotorTemperature().trim() + "\n";
