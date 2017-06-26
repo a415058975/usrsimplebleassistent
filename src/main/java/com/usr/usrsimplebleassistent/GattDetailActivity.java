@@ -251,8 +251,6 @@ public class GattDetailActivity extends MyBaseActivity {
                                             istouchuan = false;
                                         }
 
-                                    }else{
-                                        return;
                                     }
                                 }else{
                                     //收到的非第一个数组，每个数组的值保存到list，取第receivedreallength+5位数据看是否是结束位，正确就进行数据加工操作
@@ -261,12 +259,10 @@ public class GattDetailActivity extends MyBaseActivity {
                                         receivedlist.add(receivedlistindex++,Utils.ByteArraytoHex(arrayone).trim().replaceAll(" ", ""));
                                         if(receivedlistindex == receivedreallength+5){
                                             if(receivedlist.get(receivedreallength+4).equals("03")){
-                                                //
-
-                                            }else{
-                                                return;
+                                                //invoke method witch process the received data
+                                                processreceiveddata(receivedlist,whichoperation,istouchuan);
+                                                break;
                                             }
-                                            break;
                                         }
                                     }
 
@@ -662,6 +658,7 @@ public class GattDetailActivity extends MyBaseActivity {
                 getarrayindex = 0;
                 receivedlistindex = 0;
                 receivedlist.clear();
+
                // for(int i=0;i<b.length;i++){
                     writeCharacteristic(writeCharacteristic, b);
                // }
@@ -1166,6 +1163,103 @@ public class GattDetailActivity extends MyBaseActivity {
             j = j^b[i];
         }
         return j;
+    }
+
+    public void processreceiveddata(List<String> rlist,int whichcommand,boolean touchuan){
+        if(whichcommand == 20){
+            String tmp = "";
+            dianchibean = new DianchiRequest();
+            dianchibean.setPosCode("01");
+            for(int i=6;i<21;i++){
+                tmp += rlist.get(i);
+            }
+            dianchibean.setBatteryID(""+tmp.trim());
+            tmp="";
+            dianchibean.setBatteryString(""+Integer.parseInt(rlist.get(22),16));
+            tmp = (rlist.get(23)).equals("00")?"放电状态":"充电状态";
+            dianchibean.setBatteryStatus(""+tmp);
+            tmp="";
+            for(int i=24;i<27;i++){
+                tmp += rlist.get(i);
+            }
+            dianchibean.setTotalVoltage(""+Long.parseLong(tmp.trim(),16));
+            tmp="";
+            dianchibean.setSocElePercentage(""+Integer.parseInt(rlist.get(28),16));
+            for(int i=29;i<32;i++){
+                tmp += rlist.get(i);
+            }
+            dianchibean.setElectricity(""+Long.parseLong(tmp.trim(),16));
+            tmp = "";
+            dianchibean.setResiduallife(""+Integer.parseInt((rlist.get(33)+rlist.get(34)).trim(),16));
+            dianchibean.setMaxTemperature(""+Integer.parseInt(rlist.get(35),16));
+            dianchibean.setMonomerVoltage("01");
+            dianchibean.setSensorTemperature("01");
+            dianchibean.setBatteryLockStatus("01");
+            dianchibean.setCumulativeNum("01");
+            dianchibean.setBatteryPackVs("01");
+
+            String showresult = "";
+            showresult += "电池ID:" + dianchibean.getBatteryID().trim() + "\n";
+            showresult += "电池串数:" + dianchibean.getBatteryString().trim() + "\n";
+            if(dianchibean.getBatteryStatus().trim().equals("00")){
+                showresult += "当前电池状态:断电" + "\n";
+            }else{
+                showresult += "当前电池状态:充电" + "\n";
+            }
+            showresult += "当前总电压:" + dianchibean.getTotalVoltage().trim() + "mV\n";
+            showresult += "当前SOC电量百分比:" + dianchibean.getSocElePercentage().trim() + "%\n";
+            showresult += "当前电流:" + dianchibean.getElectricity().trim() + "ma\n";
+            showresult += "当前剩余寿命:" + dianchibean.getResiduallife().trim() + "\n";
+            showresult += "当前最高温度:" + dianchibean.getMaxTemperature() + "℃\n";
+            showresult += "单体电压:" + dianchibean.getMonomerVoltage().trim().replaceAll("(.{2})","$1 ") + "(单位:mv)\n";
+            showresult += "传感器温度:" + dianchibean.getSensorTemperature().trim() + "(单位:℃)\n";
+            showresult += "电池锁状态:" + dianchibean.getBatteryLockStatus() + "\n";
+            showresult += "充放电累计:" + dianchibean.getCumulativeNum() + "\n";
+            showresult += "电池包固件版本:" + dianchibean.getBatteryPackVs() + "\n";
+            System.out.println("aaaaaaaaa"+dianchibean.getTotalVoltage().trim());
+            if(!touchuan){
+                Message msg2 = new Message(Message.MESSAGE_TYPE.SEND,showresult);
+                notifyAdapter(msg2);
+            }
+            new Thread(sendDianchiThread).start();
+            Message msg3 = new Message(Message.MESSAGE_TYPE.SEND,"正在上传到服务器...");
+            notifyAdapter(msg3);
+
+
+        }else if(whichcommand == 21){
+            gongjubean = new GongjuRequest();
+            String showresult = "";
+            showresult += "工具/充电器ID:" + gongjubean.getBatteryID().trim() + "\n";
+            if(gongjubean.getChargerStatus().trim().equals("00")){
+                showresult += "当前工具/充电器状态:断电" + "\n";
+            }else{
+                showresult += "当前工具/充电器状态:充电" + "\n";
+            }
+            if(!touchuan){
+                Message msg2 = new Message(Message.MESSAGE_TYPE.SEND,showresult);
+                notifyAdapter(msg2);
+            }
+            new Thread(sendGongjuThread).start();
+            Message msg3 = new Message(Message.MESSAGE_TYPE.SEND,"正在上传到服务器...");
+            notifyAdapter(msg3);
+        }else if(whichcommand == 22){
+            waishebean = new WaisheRequest();
+            String showresult = "";
+            showresult += "外设固件版本:" + waishebean.getPeriFirmwareVs().trim() + "\n";
+            showresult += "电机温度:" + waishebean.getMotorTemperature().trim() + "\n";
+            showresult += "电机转速:" + waishebean.getMotorSpeed().trim() + "\n";
+            showresult += "控制器温度:" + waishebean.getControllerTemperature().trim() + "\n";
+            showresult += "工作电流:" + waishebean.getWorkCurrent().trim() + "\n";
+            showresult += "保留位、扩展位:" + waishebean.getReservedBit().trim() + "\n";
+            if(!touchuan) {
+                Message msg2 = new Message(Message.MESSAGE_TYPE.SEND, showresult);
+                notifyAdapter(msg2);
+            }
+            new Thread(sendWaisheThread).start();
+            Message msg3 = new Message(Message.MESSAGE_TYPE.SEND,"正在上传到服务器...");
+            notifyAdapter(msg3);
+        }
+
     }
 
 }
