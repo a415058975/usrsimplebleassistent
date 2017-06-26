@@ -101,6 +101,9 @@ public class GattDetailActivity extends MyBaseActivity {
     private int receivedlistindex = 0;
     private int getarrayindex = 0 ;
     private int receivedreallength = 0;
+    public int whichoperation ;
+    public boolean istouchuan = false;
+    public String alertwhat;
 
 
     private DianchiRequest dianchibean;
@@ -199,9 +202,7 @@ public class GattDetailActivity extends MyBaseActivity {
     private boolean indicateEnable;
     private boolean isDebugMode;
 
-    public int whichoperation ;
-    public boolean istouchuan = false;
-    public String alertwhat;
+
 
     private BroadcastReceiver mGattUpdateReceiver = new BroadcastReceiver() {
 
@@ -229,17 +230,47 @@ public class GattDetailActivity extends MyBaseActivity {
                             if (isDebugMode){
                                 byte[] array = intent.getByteArrayExtra(Constants.EXTRA_BYTE_VALUE);
                                 if(getarrayindex == 0){
+                                    //收到的第一个数组进行长度、命令字、透传位判断
                                     for(int i = 0;i<array.length;i++){
                                         byte[] arrayone ={array[i]};
                                         receivedlist.add(receivedlistindex++,Utils.ByteArraytoHex(arrayone).trim().replaceAll(" ", ""));
                                     }
-                                    if(receivedlist.size() > 5){
-                                        receivedreallength = Integer.parseInt((receivedlist.get(1)+receivedlist.get(2)).replaceAll(" ", ""),16);
+                                    if(receivedlist.size() > 6){
+                                        receivedreallength = Integer.parseInt((receivedlist.get(1)+receivedlist.get(2)).trim(),16);
+                                        if(receivedlist.get(4).equals("20")){
+                                            whichoperation = 20;
+                                        }else if(receivedlist.get(4).equals("21")){
+                                            whichoperation = 21;
+                                        }else if(receivedlist.get(4).equals("22")){
+                                            whichoperation = 22;
+                                        }
 
+                                        if(receivedlist.get(5).equals("00")){
+                                            istouchuan = true;
+                                        }else if(receivedlist.get(5).equals("01")){
+                                            istouchuan = false;
+                                        }
 
                                     }else{
                                         return;
                                     }
+                                }else{
+                                    //收到的非第一个数组，每个数组的值保存到list，取第receivedreallength+5位数据看是否是结束位，正确就进行数据加工操作
+                                    for(int i = 0;i<array.length;i++){
+                                        byte[] arrayone ={array[i]};
+                                        receivedlist.add(receivedlistindex++,Utils.ByteArraytoHex(arrayone).trim().replaceAll(" ", ""));
+                                        if(receivedlistindex == receivedreallength+5){
+                                            if(receivedlist.get(receivedreallength+4).equals("03")){
+                                                //
+
+                                            }else{
+                                                return;
+                                            }
+                                            break;
+                                        }
+                                    }
+
+
                                 }
 
 

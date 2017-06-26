@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\e7fcbfa47b3efc700521ae3ec3b2b7d7\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 55,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "D:\\AndroidStudioProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
