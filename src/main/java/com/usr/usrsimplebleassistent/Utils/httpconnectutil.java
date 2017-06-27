@@ -11,7 +11,7 @@ import java.net.URLConnection;
 
 public class httpconnectutil {
 
-	private String IP = "http://192.168.101.133:85/";
+	private String IP = "http://172.16.10.55:85/";
 	private String dianchiApi = "API/pandapay.Battery.info.ashx";
 	private String gongjuApi = "API/pandapay.Charger.info.ashx";
 	private String waisheApi = "API/pandapay.Peripheral.info.ashx";

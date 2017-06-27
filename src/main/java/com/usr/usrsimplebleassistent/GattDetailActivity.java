@@ -129,7 +129,7 @@ public class GattDetailActivity extends MyBaseActivity {
     private boolean isPause = false;
     private boolean isStop = true;
     private static int delay = 3000;  //1s
-    private static int period = 35000;  //1s
+    private static int period = 3000;  //1s
 
     private Handler mmHandler  = new Handler(){
         @Override
@@ -679,9 +679,18 @@ public class GattDetailActivity extends MyBaseActivity {
 //            }
 
 //        }
+        if(b[3] == 0x20){
+            Message msg = new Message(Message.MESSAGE_TYPE.SEND,""+"发送电池信息请求");
+            notifyAdapter(msg);
+        }else if(b[3] == 0x21){
+            Message msg = new Message(Message.MESSAGE_TYPE.SEND,""+"发送工具信息请求");
+            notifyAdapter(msg);
+        }else if(b[3] == 0x22){
+            Message msg = new Message(Message.MESSAGE_TYPE.SEND,""+"发送外设信息请求");
+            notifyAdapter(msg);
+        }
 
-        Message msg = new Message(Message.MESSAGE_TYPE.SEND,""+b.toString());
-        notifyAdapter(msg);
+
     }
 
 
@@ -1178,7 +1187,7 @@ public class GattDetailActivity extends MyBaseActivity {
             dianchibean.setBatteryString(""+Integer.parseInt(rlist.get(22),16));
             //tmp = (rlist.get(23)).equals("00")?"放电状态":"充电状态";
             dianchibean.setBatteryStatus(""+rlist.get(23));
-            for(int i=24;i<27;i++){
+            for(int i=24;i<=27;i++){
                 tmp += rlist.get(i);
             }
             dianchibean.setTotalVoltage(""+Long.parseLong(tmp.trim(),16));
