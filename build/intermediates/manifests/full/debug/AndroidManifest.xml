@@ -33,6 +33,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.usr.usrsimplebleassistent.MainActivity"
@@ -71,6 +72,9 @@
         <activity
             android:name="com.usr.usrsimplebleassistent.RegistActivity"
             android:label="@string/title_activity_regist" />
+        <activity android:name="com.usr.usrsimplebleassistent.DianchiInfoShowerActivity" />
+        <activity android:name="com.usr.usrsimplebleassistent.GongjuInfoShowerActivity" />
+        <activity android:name="com.usr.usrsimplebleassistent.WaisheInfoShowerActivity" />
     </application>
 
 </manifest>

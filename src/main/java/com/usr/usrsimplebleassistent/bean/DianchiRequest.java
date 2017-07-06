@@ -1,10 +1,12 @@
 package com.usr.usrsimplebleassistent.bean;
 
+import java.io.Serializable;
+
 /**
  * Created by win on 2017/6/19.
  */
 
-public class DianchiRequest {
+public class DianchiRequest implements Serializable {
     private String PosCode;
     private String BatteryID;
     private String BatteryString;

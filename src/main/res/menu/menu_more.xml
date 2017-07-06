@@ -4,16 +4,21 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <item
-       android:id="@+id/menu_hex_send"
-       android:title="@string/menu_hex_send"
+        android:id="@+id/dianchi_show"
+        android:title="电池监控"
+        app:showAsAction="never"/>
+
+    <item
+       android:id="@+id/gongju_show"
+       android:title="工具监控"
        app:showAsAction="never"/>
 
     <item
-        android:id="@+id/menu_asscii_send"
-        android:title="@string/menu_asscii_send"
+        android:id="@+id/waishe_send"
+        android:title="外设监控"
         app:showAsAction="never"/>
     <item
         android:id="@+id/menu_clear_display"
-        android:title="@string/menu_clear_display"
+        android:title="清空屏幕"
         app:showAsAction="never"/>
 </menu>

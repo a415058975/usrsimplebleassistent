@@ -872,6 +872,18 @@ public class GattDetailActivity extends MyBaseActivity {
         super.onOptionsItemSelected(item);
        // String text = etWrite.getText().toString();
         switch (item.getItemId()){
+            case R.id.dianchi_show:
+                Intent it1 = new Intent(GattDetailActivity.this,DianchiInfoShowerActivity.class);
+                startActivity(it1);
+                break;
+            case R.id.gongju_show:
+                Intent it2 = new Intent(GattDetailActivity.this,GongjuInfoShowerActivity.class);
+                startActivity(it2);
+                break;
+            case R.id.waishe_send:
+                Intent it3 = new Intent(GattDetailActivity.this,WaisheInfoShowerActivity.class);
+                startActivity(it3);
+                break;
 //            case R.id.menu_hex_send:
 //                isHexSend = true;
 //                if (!TextUtils.isEmpty(text)){
@@ -1237,6 +1249,12 @@ public class GattDetailActivity extends MyBaseActivity {
             if(!touchuan){
                 Message msg2 = new Message(Message.MESSAGE_TYPE.SEND,showresult);
                 notifyAdapter(msg2);
+                Intent intent=new Intent();
+                Bundle bundle = new Bundle();
+                bundle.putSerializable("20", dianchibean);
+                intent.putExtras(bundle);
+                intent.setAction("dianchireceiver");
+                sendBroadcast(intent);
             }
             new Thread(sendDianchiThread).start();
             Message msg3 = new Message(Message.MESSAGE_TYPE.SEND,"正在上传到服务器...");
@@ -1263,6 +1281,12 @@ public class GattDetailActivity extends MyBaseActivity {
             if(!touchuan){
                 Message msg2 = new Message(Message.MESSAGE_TYPE.SEND,showresult);
                 notifyAdapter(msg2);
+                Intent intent=new Intent();
+                Bundle bundle = new Bundle();
+                bundle.putSerializable("21", gongjubean);
+                intent.putExtras(bundle);
+                intent.setAction("gongjureceiver");
+                sendBroadcast(intent);
             }
             new Thread(sendGongjuThread).start();
             Message msg3 = new Message(Message.MESSAGE_TYPE.SEND,"正在上传到服务器...");
@@ -1293,6 +1317,12 @@ public class GattDetailActivity extends MyBaseActivity {
             if(!touchuan) {
                 Message msg2 = new Message(Message.MESSAGE_TYPE.SEND, showresult);
                 notifyAdapter(msg2);
+                Intent intent=new Intent();
+                Bundle bundle = new Bundle();
+                bundle.putSerializable("22", waishebean);
+                intent.putExtras(bundle);
+                intent.setAction("waishereceiver");
+                sendBroadcast(intent);
             }
             new Thread(sendWaisheThread).start();
             Message msg3 = new Message(Message.MESSAGE_TYPE.SEND,"正在上传到服务器...");

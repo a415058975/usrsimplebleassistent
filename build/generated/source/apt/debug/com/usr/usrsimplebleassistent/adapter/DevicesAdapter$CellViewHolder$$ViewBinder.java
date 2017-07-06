@@ -8,12 +8,12 @@ import butterknife.ButterKnife.ViewBinder;
 public class DevicesAdapter$CellViewHolder$$ViewBinder<T extends com.usr.usrsimplebleassistent.adapter.DevicesAdapter.CellViewHolder> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131230885, "field 'tvDevName'");
-    target.tvDevName = finder.castView(view, 2131230885, "field 'tvDevName'");
-    view = finder.findRequiredView(source, 2131230886, "field 'tvDevSignal'");
-    target.tvDevSignal = finder.castView(view, 2131230886, "field 'tvDevSignal'");
-    view = finder.findRequiredView(source, 2131230884, "field 'tvDevMac'");
-    target.tvDevMac = finder.castView(view, 2131230884, "field 'tvDevMac'");
+    view = finder.findRequiredView(source, 2131230918, "field 'tvDevName'");
+    target.tvDevName = finder.castView(view, 2131230918, "field 'tvDevName'");
+    view = finder.findRequiredView(source, 2131230919, "field 'tvDevSignal'");
+    target.tvDevSignal = finder.castView(view, 2131230919, "field 'tvDevSignal'");
+    view = finder.findRequiredView(source, 2131230917, "field 'tvDevMac'");
+    target.tvDevMac = finder.castView(view, 2131230917, "field 'tvDevMac'");
   }
 
   @Override public void unbind(T target) {

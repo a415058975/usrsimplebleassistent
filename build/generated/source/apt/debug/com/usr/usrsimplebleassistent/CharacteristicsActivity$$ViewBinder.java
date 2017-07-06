@@ -9,11 +9,11 @@ public class CharacteristicsActivity$$ViewBinder<T extends com.usr.usrsimpleblea
     super.bind(finder, target, source);
 
     View view;
-    view = finder.findRequiredView(source, 2131230898, "field 'filterView'");
+    view = finder.findRequiredView(source, 2131230937, "field 'filterView'");
     target.filterView = view;
-    view = finder.findRequiredView(source, 2131230805, "field 'lvCharacteristics'");
-    target.lvCharacteristics = finder.castView(view, 2131230805, "field 'lvCharacteristics'");
-    view = finder.findRequiredView(source, 2131230900, "field 'viewShadow'");
+    view = finder.findRequiredView(source, 2131230828, "field 'lvCharacteristics'");
+    target.lvCharacteristics = finder.castView(view, 2131230828, "field 'lvCharacteristics'");
+    view = finder.findRequiredView(source, 2131230939, "field 'viewShadow'");
     target.viewShadow = view;
   }
 

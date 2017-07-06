@@ -9,12 +9,12 @@ public class MainActivity$$ViewBinder<T extends com.usr.usrsimplebleassistent.Ma
     super.bind(finder, target, source);
 
     View view;
-    view = finder.findRequiredView(source, 2131230833, "field 'recyclerView'");
-    target.recyclerView = finder.castView(view, 2131230833, "field 'recyclerView'");
-    view = finder.findRequiredView(source, 2131230761, "field 'collapsingToolbarLayout'");
-    target.collapsingToolbarLayout = finder.castView(view, 2131230761, "field 'collapsingToolbarLayout'");
-    view = finder.findRequiredView(source, 2131230781, "field 'fabSearch' and method 'searchDevice'");
-    target.fabSearch = finder.castView(view, 2131230781, "field 'fabSearch'");
+    view = finder.findRequiredView(source, 2131230858, "field 'recyclerView'");
+    target.recyclerView = finder.castView(view, 2131230858, "field 'recyclerView'");
+    view = finder.findRequiredView(source, 2131230768, "field 'collapsingToolbarLayout'");
+    target.collapsingToolbarLayout = finder.castView(view, 2131230768, "field 'collapsingToolbarLayout'");
+    view = finder.findRequiredView(source, 2131230795, "field 'fabSearch' and method 'searchDevice'");
+    target.fabSearch = finder.castView(view, 2131230795, "field 'fabSearch'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -23,17 +23,17 @@ public class MainActivity$$ViewBinder<T extends com.usr.usrsimplebleassistent.Ma
           target.searchDevice();
         }
       });
-    view = finder.findRequiredView(source, 2131230832, "field 'revealSearchView'");
-    target.revealSearchView = finder.castView(view, 2131230832, "field 'revealSearchView'");
-    view = finder.findRequiredView(source, 2131230835, "field 'revealBackgroundView'");
-    target.revealBackgroundView = finder.castView(view, 2131230835, "field 'revealBackgroundView'");
-    view = finder.findRequiredView(source, 2131230839, "field 'rlSearchInfo'");
-    target.rlSearchInfo = finder.castView(view, 2131230839, "field 'rlSearchInfo'");
-    view = finder.findRequiredView(source, 2131230889, "field 'tvSearchDeviceCount'");
-    target.tvSearchDeviceCount = finder.castView(view, 2131230889, "field 'tvSearchDeviceCount'");
-    view = finder.findRequiredView(source, 2131230758, "field 'clContent'");
-    target.clContent = finder.castView(view, 2131230758, "field 'clContent'");
-    view = finder.findRequiredView(source, 2131230749, "method 'stopSearching'");
+    view = finder.findRequiredView(source, 2131230857, "field 'revealSearchView'");
+    target.revealSearchView = finder.castView(view, 2131230857, "field 'revealSearchView'");
+    view = finder.findRequiredView(source, 2131230860, "field 'revealBackgroundView'");
+    target.revealBackgroundView = finder.castView(view, 2131230860, "field 'revealBackgroundView'");
+    view = finder.findRequiredView(source, 2131230864, "field 'rlSearchInfo'");
+    target.rlSearchInfo = finder.castView(view, 2131230864, "field 'rlSearchInfo'");
+    view = finder.findRequiredView(source, 2131230924, "field 'tvSearchDeviceCount'");
+    target.tvSearchDeviceCount = finder.castView(view, 2131230924, "field 'tvSearchDeviceCount'");
+    view = finder.findRequiredView(source, 2131230765, "field 'clContent'");
+    target.clContent = finder.castView(view, 2131230765, "field 'clContent'");
+    view = finder.findRequiredView(source, 2131230755, "method 'stopSearching'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(

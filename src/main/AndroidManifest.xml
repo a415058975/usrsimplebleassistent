@@ -63,7 +63,10 @@
             android:label="@string/title_activity_login" />
         <activity
             android:name=".RegistActivity"
-            android:label="@string/title_activity_regist"></activity>
+            android:label="@string/title_activity_regist" />
+        <activity android:name=".DianchiInfoShowerActivity" />
+        <activity android:name=".GongjuInfoShowerActivity" />
+        <activity android:name=".WaisheInfoShowerActivity"></activity>
     </application>
 
 </manifest>

@@ -7,8 +7,29 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
+                    "endLine": 26,
+                    "endColumn": 24,
+                    "endOffset": 1482
+                },
+                "from": {
+                    "file": "D:\\AndroidProjects\\usrsimplebleassistent\\src\\main\\res\\values-zh\\attrs.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 26,
+                        "endColumn": 24,
+                        "endOffset": 1483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1487,
                     "endColumn": 49,
-                    "endOffset": 100
+                    "endOffset": 1532
                 },
                 "from": {
                     "file": "D:\\AndroidProjects\\usrsimplebleassistent\\src\\main\\res\\values-zh\\strings.xml",
@@ -23,11 +44,11 @@
             },
             {
                 "to": {
-                    "startLine": 3,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 105,
+                    "startOffset": 1537,
                     "endColumn": 63,
-                    "endOffset": 164
+                    "endOffset": 1596
                 },
                 "from": {
                     "file": "D:\\AndroidProjects\\usrsimplebleassistent\\src\\main\\res\\values-zh\\strings.xml",
@@ -42,11 +63,11 @@
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 169,
+                    "startOffset": 1601,
                     "endColumn": 39,
-                    "endOffset": 204
+                    "endOffset": 1636
                 },
                 "from": {
                     "file": "D:\\AndroidProjects\\usrsimplebleassistent\\src\\main\\res\\values-zh\\strings.xml",
@@ -61,11 +82,11 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 209,
+                    "startOffset": 1641,
                     "endColumn": 50,
-                    "endOffset": 255
+                    "endOffset": 1687
                 },
                 "from": {
                     "file": "D:\\AndroidProjects\\usrsimplebleassistent\\src\\main\\res\\values-zh\\strings.xml",
@@ -80,11 +101,11 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 260,
+                    "startOffset": 1692,
                     "endColumn": 36,
-                    "endOffset": 292
+                    "endOffset": 1724
                 },
                 "from": {
                     "file": "D:\\AndroidProjects\\usrsimplebleassistent\\src\\main\\res\\values-zh\\strings.xml",
@@ -99,11 +120,11 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 297,
+                    "startOffset": 1729,
                     "endColumn": 44,
-                    "endOffset": 337
+                    "endOffset": 1769
                 },
                 "from": {
                     "file": "D:\\AndroidProjects\\usrsimplebleassistent\\src\\main\\res\\values-zh\\strings.xml",
@@ -118,11 +139,11 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 342,
+                    "startOffset": 1774,
                     "endColumn": 46,
-                    "endOffset": 384
+                    "endOffset": 1816
                 },
                 "from": {
                     "file": "D:\\AndroidProjects\\usrsimplebleassistent\\src\\main\\res\\values-zh\\strings.xml",
@@ -137,11 +158,11 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 389,
+                    "startOffset": 1821,
                     "endColumn": 56,
-                    "endOffset": 441
+                    "endOffset": 1873
                 },
                 "from": {
                     "file": "D:\\AndroidProjects\\usrsimplebleassistent\\src\\main\\res\\values-zh\\strings.xml",
@@ -156,11 +177,11 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 446,
+                    "startOffset": 1878,
                     "endColumn": 47,
-                    "endOffset": 489
+                    "endOffset": 1921
                 },
                 "from": {
                     "file": "D:\\AndroidProjects\\usrsimplebleassistent\\src\\main\\res\\values-zh\\strings.xml",

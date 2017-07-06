@@ -9,22 +9,22 @@ public class ServicesActivity$$ViewBinder<T extends com.usr.usrsimplebleassisten
     super.bind(finder, target, source);
 
     View view;
-    view = finder.findRequiredView(source, 2131230840, "field 'rlTop'");
-    target.rlTop = finder.castView(view, 2131230840, "field 'rlTop'");
-    view = finder.findRequiredView(source, 2131230898, "field 'filterView'");
+    view = finder.findRequiredView(source, 2131230865, "field 'rlTop'");
+    target.rlTop = finder.castView(view, 2131230865, "field 'rlTop'");
+    view = finder.findRequiredView(source, 2131230937, "field 'filterView'");
     target.filterView = view;
-    view = finder.findRequiredView(source, 2131230900, "field 'viewShadow'");
+    view = finder.findRequiredView(source, 2131230939, "field 'viewShadow'");
     target.viewShadow = view;
-    view = finder.findRequiredView(source, 2131230807, "field 'lvServices'");
-    target.lvServices = finder.castView(view, 2131230807, "field 'lvServices'");
-    view = finder.findRequiredView(source, 2131230793, "field 'ivBle'");
-    target.ivBle = finder.castView(view, 2131230793, "field 'ivBle'");
-    view = finder.findRequiredView(source, 2131230893, "field 'tvServiceName'");
-    target.tvServiceName = finder.castView(view, 2131230893, "field 'tvServiceName'");
-    view = finder.findRequiredView(source, 2131230892, "field 'tvServiceMac'");
-    target.tvServiceMac = finder.castView(view, 2131230892, "field 'tvServiceMac'");
-    view = finder.findRequiredView(source, 2131230891, "field 'tvServiceCount'");
-    target.tvServiceCount = finder.castView(view, 2131230891, "field 'tvServiceCount'");
+    view = finder.findRequiredView(source, 2131230830, "field 'lvServices'");
+    target.lvServices = finder.castView(view, 2131230830, "field 'lvServices'");
+    view = finder.findRequiredView(source, 2131230811, "field 'ivBle'");
+    target.ivBle = finder.castView(view, 2131230811, "field 'ivBle'");
+    view = finder.findRequiredView(source, 2131230928, "field 'tvServiceName'");
+    target.tvServiceName = finder.castView(view, 2131230928, "field 'tvServiceName'");
+    view = finder.findRequiredView(source, 2131230927, "field 'tvServiceMac'");
+    target.tvServiceMac = finder.castView(view, 2131230927, "field 'tvServiceMac'");
+    view = finder.findRequiredView(source, 2131230926, "field 'tvServiceCount'");
+    target.tvServiceCount = finder.castView(view, 2131230926, "field 'tvServiceCount'");
   }
 
   @Override public void unbind(T target) {
