@@ -8,8 +8,8 @@ import butterknife.ButterKnife.ViewBinder;
 public class MessagesAdapter$MessageViewHolderLeft$$ViewBinder<T extends com.usr.usrsimplebleassistent.adapter.MessagesAdapter.MessageViewHolderLeft> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131230922, "field 'tvMsgContent'");
-    target.tvMsgContent = finder.castView(view, 2131230922, "field 'tvMsgContent'");
+    view = finder.findRequiredView(source, 2131230923, "field 'tvMsgContent'");
+    target.tvMsgContent = finder.castView(view, 2131230923, "field 'tvMsgContent'");
   }
 
   @Override public void unbind(T target) {

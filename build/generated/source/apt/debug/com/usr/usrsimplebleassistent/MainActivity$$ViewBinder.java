@@ -29,8 +29,8 @@ public class MainActivity$$ViewBinder<T extends com.usr.usrsimplebleassistent.Ma
     target.revealBackgroundView = finder.castView(view, 2131230860, "field 'revealBackgroundView'");
     view = finder.findRequiredView(source, 2131230864, "field 'rlSearchInfo'");
     target.rlSearchInfo = finder.castView(view, 2131230864, "field 'rlSearchInfo'");
-    view = finder.findRequiredView(source, 2131230924, "field 'tvSearchDeviceCount'");
-    target.tvSearchDeviceCount = finder.castView(view, 2131230924, "field 'tvSearchDeviceCount'");
+    view = finder.findRequiredView(source, 2131230925, "field 'tvSearchDeviceCount'");
+    target.tvSearchDeviceCount = finder.castView(view, 2131230925, "field 'tvSearchDeviceCount'");
     view = finder.findRequiredView(source, 2131230765, "field 'clContent'");
     target.clContent = finder.castView(view, 2131230765, "field 'clContent'");
     view = finder.findRequiredView(source, 2131230755, "method 'stopSearching'");

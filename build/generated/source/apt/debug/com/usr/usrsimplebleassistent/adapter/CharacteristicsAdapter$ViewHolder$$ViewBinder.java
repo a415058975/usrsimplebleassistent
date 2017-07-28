@@ -8,10 +8,10 @@ import butterknife.ButterKnife.ViewBinder;
 public class CharacteristicsAdapter$ViewHolder$$ViewBinder<T extends com.usr.usrsimplebleassistent.adapter.CharacteristicsAdapter.ViewHolder> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131230915, "field 'tvCharacteristicName'");
-    target.tvCharacteristicName = finder.castView(view, 2131230915, "field 'tvCharacteristicName'");
-    view = finder.findRequiredView(source, 2131230916, "field 'tvCharacteristicProperties'");
-    target.tvCharacteristicProperties = finder.castView(view, 2131230916, "field 'tvCharacteristicProperties'");
+    view = finder.findRequiredView(source, 2131230916, "field 'tvCharacteristicName'");
+    target.tvCharacteristicName = finder.castView(view, 2131230916, "field 'tvCharacteristicName'");
+    view = finder.findRequiredView(source, 2131230917, "field 'tvCharacteristicProperties'");
+    target.tvCharacteristicProperties = finder.castView(view, 2131230917, "field 'tvCharacteristicProperties'");
   }
 
   @Override public void unbind(T target) {

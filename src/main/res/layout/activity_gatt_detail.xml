@@ -140,6 +140,24 @@
                     android:alpha="0.8"/>
 
                 <Button
+                    android:id="@+id/touchuan"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentRight="true"
+                    android:text="透"
+                    android:background="@drawable/selector_btn_options"
+                    android:textColor="@android:color/white"/>
+
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="30dp"
+                    android:layout_centerVertical="true"
+                    android:background="@android:color/white"
+                    android:alpha="0.8"/>
+
+                <Button
                     android:id="@+id/stopall"
                     android:layout_weight="1"
                     android:layout_width="0dp"

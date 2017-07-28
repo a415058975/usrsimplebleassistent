@@ -4,13 +4,13 @@ ADDED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml
 INJECTED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml:2:1-72:12
 INJECTED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml:2:1-72:12
 INJECTED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml:2:1-72:12
-MERGED from [com.android.support:design:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\962bcd02e043ef09532c9c2995f76fc2\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\8ccade0e9502c687977c2772d02128a5\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:recyclerview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.0.0.aar\87cf0bd26e1bf7923398400d6d5432cc\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\9a17e96c6d99cbc1deff0dd14f6feae3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\74a11a04a667933963e035124afc3d86\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\c62651dca46a49de1020c9e5a719fe2f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.0.0.aar\42658dbc01973a5a91c59a68c9fff0d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\487fbaf409b7859bc474f19421ad7e8a\AndroidManifest.xml:17:1-24:12
 MERGED from [:MaterialDesignDialoglibrary] D:\AndroidProjects\usrsimplebleassistent\MaterialDesignDialoglibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-12:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\win\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7cc1e835f4d461f1471d29b451e7d0a4\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-v4:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\11d2c998a5c321d632968627c0ccb89b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\win\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bfd721351b61cc535b786fefc0e5219e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\7959c66d2d702c8a7f9ba95b4e4c1c97\AndroidManifest.xml:17:1-24:12
 INJECTED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml:2:1-72:12
 INJECTED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml:2:1-72:12
 INJECTED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml:2:1-72:12
@@ -74,16 +74,16 @@ ADDED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml
 		ADDED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml:21:22-69
 application
 ADDED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml:23:5-70:19
-MERGED from [com.android.support:design:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\962bcd02e043ef09532c9c2995f76fc2\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\962bcd02e043ef09532c9c2995f76fc2\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\8ccade0e9502c687977c2772d02128a5\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\8ccade0e9502c687977c2772d02128a5\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\9a17e96c6d99cbc1deff0dd14f6feae3\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\9a17e96c6d99cbc1deff0dd14f6feae3\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\win\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7cc1e835f4d461f1471d29b451e7d0a4\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\win\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7cc1e835f4d461f1471d29b451e7d0a4\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-v4:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\11d2c998a5c321d632968627c0ccb89b\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\11d2c998a5c321d632968627c0ccb89b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\74a11a04a667933963e035124afc3d86\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\74a11a04a667933963e035124afc3d86\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\c62651dca46a49de1020c9e5a719fe2f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\c62651dca46a49de1020c9e5a719fe2f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\487fbaf409b7859bc474f19421ad7e8a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\487fbaf409b7859bc474f19421ad7e8a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\win\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bfd721351b61cc535b786fefc0e5219e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\win\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bfd721351b61cc535b786fefc0e5219e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\7959c66d2d702c8a7f9ba95b4e4c1c97\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\7959c66d2d702c8a7f9ba95b4e4c1c97\AndroidManifest.xml:22:5-20
 	android:supportsRtl
 		ADDED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml:28:9-35
 	android:label
@@ -180,20 +180,20 @@ uses-sdk
 INJECTED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml
 INJECTED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\962bcd02e043ef09532c9c2995f76fc2\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\962bcd02e043ef09532c9c2995f76fc2\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\8ccade0e9502c687977c2772d02128a5\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\8ccade0e9502c687977c2772d02128a5\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.0.0.aar\87cf0bd26e1bf7923398400d6d5432cc\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.0.0.aar\87cf0bd26e1bf7923398400d6d5432cc\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\9a17e96c6d99cbc1deff0dd14f6feae3\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\9a17e96c6d99cbc1deff0dd14f6feae3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\74a11a04a667933963e035124afc3d86\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\74a11a04a667933963e035124afc3d86\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\c62651dca46a49de1020c9e5a719fe2f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\c62651dca46a49de1020c9e5a719fe2f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.0.0.aar\42658dbc01973a5a91c59a68c9fff0d1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.0.0.aar\42658dbc01973a5a91c59a68c9fff0d1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\487fbaf409b7859bc474f19421ad7e8a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.0.aar\487fbaf409b7859bc474f19421ad7e8a\AndroidManifest.xml:20:5-43
 MERGED from [:MaterialDesignDialoglibrary] D:\AndroidProjects\usrsimplebleassistent\MaterialDesignDialoglibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
 MERGED from [:MaterialDesignDialoglibrary] D:\AndroidProjects\usrsimplebleassistent\MaterialDesignDialoglibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\win\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7cc1e835f4d461f1471d29b451e7d0a4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\win\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7cc1e835f4d461f1471d29b451e7d0a4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\11d2c998a5c321d632968627c0ccb89b\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\11d2c998a5c321d632968627c0ccb89b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\win\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bfd721351b61cc535b786fefc0e5219e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\win\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bfd721351b61cc535b786fefc0e5219e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\7959c66d2d702c8a7f9ba95b4e4c1c97\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\win\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\7959c66d2d702c8a7f9ba95b4e4c1c97\AndroidManifest.xml:20:5-43
 INJECTED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml
 INJECTED from D:\AndroidProjects\usrsimplebleassistent\src\main\AndroidManifest.xml
 	android:targetSdkVersion

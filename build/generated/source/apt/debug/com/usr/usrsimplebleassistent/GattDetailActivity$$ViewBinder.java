@@ -31,19 +31,19 @@ public class GattDetailActivity$$ViewBinder<T extends com.usr.usrsimplebleassist
       });
     view = finder.findRequiredView(source, 2131230829, "field 'rvMsg'");
     target.rvMsg = finder.castView(view, 2131230829, "field 'rvMsg'");
-    view = finder.findRequiredView(source, 2131230923, "field 'tvProperties'");
-    target.tvProperties = finder.castView(view, 2131230923, "field 'tvProperties'");
+    view = finder.findRequiredView(source, 2131230924, "field 'tvProperties'");
+    target.tvProperties = finder.castView(view, 2131230924, "field 'tvProperties'");
     view = finder.findRequiredView(source, 2131230866, "field 'rlWrite'");
     target.rlWrite = finder.castView(view, 2131230866, "field 'rlWrite'");
     view = finder.findRequiredView(source, 2131230863, "field 'rlContent'");
     target.rlContent = finder.castView(view, 2131230863, "field 'rlContent'");
     view = finder.findRequiredView(source, 2131230862, "field 'rlBottom'");
     target.rlBottom = finder.castView(view, 2131230862, "field 'rlBottom'");
-    view = finder.findRequiredView(source, 2131230936, "field 'bottomShadow'");
+    view = finder.findRequiredView(source, 2131230937, "field 'bottomShadow'");
     target.bottomShadow = view;
-    view = finder.findRequiredView(source, 2131230940, "field 'topShadow'");
+    view = finder.findRequiredView(source, 2131230941, "field 'topShadow'");
     target.topShadow = view;
-    view = finder.findRequiredView(source, 2131230937, "field 'filterView'");
+    view = finder.findRequiredView(source, 2131230938, "field 'filterView'");
     target.filterView = view;
     view = finder.findRequiredView(source, 2131230752, "method 'onSend20Click'");
     view.setOnClickListener(

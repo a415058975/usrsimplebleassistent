@@ -30,7 +30,7 @@ buildscript {
         }
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.0.0-alpha5'   //last version Jan 2016
+        classpath 'com.android.tools.build:gradle:3.0.0-alpha8'   //last version Jan 2016
     }
 }
 
