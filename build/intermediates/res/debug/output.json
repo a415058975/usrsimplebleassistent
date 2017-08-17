@@ -1,1 +1,1 @@
-[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1},"outputFile":{"path":"D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\res\\debug\\resources-debug.ap_"},"properties":{"packageId":"com.usr.usrsimplebleassistent","split":""}}]
+[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1},"path":"resources-debug.ap_","properties":{"packageId":"com.usr.usrsimplebleassistent","split":"","minSdkVersion":"21"}}]
