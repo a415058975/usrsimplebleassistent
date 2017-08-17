@@ -66,7 +66,8 @@
             android:label="@string/title_activity_regist" />
         <activity android:name=".DianchiInfoShowerActivity" />
         <activity android:name=".GongjuInfoShowerActivity" />
-        <activity android:name=".WaisheInfoShowerActivity"></activity>
+        <activity android:name=".WaisheInfoShowerActivity" />
+        <activity android:name=".ButtonsDIYSettingActivity"></activity>
     </application>
 
 </manifest>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "outputFile": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-xlarge-land/values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 63,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-xlarge-land\\values-xlarge-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

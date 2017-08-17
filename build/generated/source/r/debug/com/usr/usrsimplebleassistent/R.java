@@ -3225,46 +3225,47 @@ public final class R {
     public static final int abc_search_dropdown_item_icons_2line=0x7f0a0015;
     public static final int abc_search_view=0x7f0a0016;
     public static final int abc_select_dialog_material=0x7f0a0017;
-    public static final int activity_characteristics=0x7f0a0018;
-    public static final int activity_dianchi_info_shower=0x7f0a0019;
-    public static final int activity_gatt_detail=0x7f0a001a;
-    public static final int activity_gongju_info_shower=0x7f0a001b;
-    public static final int activity_login=0x7f0a001c;
-    public static final int activity_main=0x7f0a001d;
-    public static final int activity_regist=0x7f0a001e;
-    public static final int activity_services=0x7f0a001f;
-    public static final int activity_waishe_info_shower=0x7f0a0020;
-    public static final int design_layout_snackbar=0x7f0a0021;
-    public static final int design_layout_snackbar_include=0x7f0a0022;
-    public static final int design_layout_tab_icon=0x7f0a0023;
-    public static final int design_layout_tab_text=0x7f0a0024;
-    public static final int design_navigation_item=0x7f0a0025;
-    public static final int design_navigation_item_header=0x7f0a0026;
-    public static final int design_navigation_item_separator=0x7f0a0027;
-    public static final int design_navigation_item_subheader=0x7f0a0028;
-    public static final int design_navigation_menu=0x7f0a0029;
-    public static final int item_characteristic=0x7f0a002a;
-    public static final int item_device=0x7f0a002b;
-    public static final int item_option_select=0x7f0a002c;
-    public static final int item_service=0x7f0a002d;
-    public static final int layout_item_message_left=0x7f0a002e;
-    public static final int layout_item_message_right=0x7f0a002f;
-    public static final int layout_materialdialog=0x7f0a0030;
-    public static final int notification_media_action=0x7f0a0031;
-    public static final int notification_media_cancel_action=0x7f0a0032;
-    public static final int notification_template_big_media=0x7f0a0033;
-    public static final int notification_template_big_media_narrow=0x7f0a0034;
-    public static final int notification_template_lines=0x7f0a0035;
-    public static final int notification_template_media=0x7f0a0036;
-    public static final int notification_template_part_chronometer=0x7f0a0037;
-    public static final int notification_template_part_time=0x7f0a0038;
-    public static final int options_menu=0x7f0a0039;
-    public static final int progressbar_item=0x7f0a003a;
-    public static final int select_dialog_item_material=0x7f0a003b;
-    public static final int select_dialog_multichoice_material=0x7f0a003c;
-    public static final int select_dialog_singlechoice_material=0x7f0a003d;
-    public static final int support_simple_spinner_dropdown_item=0x7f0a003e;
-    public static final int toolbar_top=0x7f0a003f;
+    public static final int activity_buttons_diysetting=0x7f0a0018;
+    public static final int activity_characteristics=0x7f0a0019;
+    public static final int activity_dianchi_info_shower=0x7f0a001a;
+    public static final int activity_gatt_detail=0x7f0a001b;
+    public static final int activity_gongju_info_shower=0x7f0a001c;
+    public static final int activity_login=0x7f0a001d;
+    public static final int activity_main=0x7f0a001e;
+    public static final int activity_regist=0x7f0a001f;
+    public static final int activity_services=0x7f0a0020;
+    public static final int activity_waishe_info_shower=0x7f0a0021;
+    public static final int design_layout_snackbar=0x7f0a0022;
+    public static final int design_layout_snackbar_include=0x7f0a0023;
+    public static final int design_layout_tab_icon=0x7f0a0024;
+    public static final int design_layout_tab_text=0x7f0a0025;
+    public static final int design_navigation_item=0x7f0a0026;
+    public static final int design_navigation_item_header=0x7f0a0027;
+    public static final int design_navigation_item_separator=0x7f0a0028;
+    public static final int design_navigation_item_subheader=0x7f0a0029;
+    public static final int design_navigation_menu=0x7f0a002a;
+    public static final int item_characteristic=0x7f0a002b;
+    public static final int item_device=0x7f0a002c;
+    public static final int item_option_select=0x7f0a002d;
+    public static final int item_service=0x7f0a002e;
+    public static final int layout_item_message_left=0x7f0a002f;
+    public static final int layout_item_message_right=0x7f0a0030;
+    public static final int layout_materialdialog=0x7f0a0031;
+    public static final int notification_media_action=0x7f0a0032;
+    public static final int notification_media_cancel_action=0x7f0a0033;
+    public static final int notification_template_big_media=0x7f0a0034;
+    public static final int notification_template_big_media_narrow=0x7f0a0035;
+    public static final int notification_template_lines=0x7f0a0036;
+    public static final int notification_template_media=0x7f0a0037;
+    public static final int notification_template_part_chronometer=0x7f0a0038;
+    public static final int notification_template_part_time=0x7f0a0039;
+    public static final int options_menu=0x7f0a003a;
+    public static final int progressbar_item=0x7f0a003b;
+    public static final int select_dialog_item_material=0x7f0a003c;
+    public static final int select_dialog_multichoice_material=0x7f0a003d;
+    public static final int select_dialog_singlechoice_material=0x7f0a003e;
+    public static final int support_simple_spinner_dropdown_item=0x7f0a003f;
+    public static final int toolbar_top=0x7f0a0040;
   }
   public static final class menu {
     public static final int menu_more=0x7f0b0000;
@@ -4212,19 +4213,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>end</td><td>800005</td><td></td></tr>
-     * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>bottom</td><td>50</td><td></td></tr>
      * <tr><td>center</td><td>11</td><td></td></tr>
      * <tr><td>center_horizontal</td><td>1</td><td></td></tr>
      * <tr><td>center_vertical</td><td>10</td><td></td></tr>
      * <tr><td>clip_horizontal</td><td>8</td><td></td></tr>
      * <tr><td>clip_vertical</td><td>80</td><td></td></tr>
+     * <tr><td>end</td><td>800005</td><td></td></tr>
      * <tr><td>fill</td><td>77</td><td></td></tr>
      * <tr><td>fill_horizontal</td><td>7</td><td></td></tr>
      * <tr><td>fill_vertical</td><td>70</td><td></td></tr>
      * <tr><td>left</td><td>3</td><td></td></tr>
      * <tr><td>right</td><td>5</td><td></td></tr>
+     * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
@@ -6203,9 +6204,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
      * <tr><td>fill_parent</td><td>ffffffff</td><td></td></tr>
      * <tr><td>match_parent</td><td>ffffffff</td><td></td></tr>
+     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
      * @attr name android:layout_width
@@ -6226,9 +6227,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
      * <tr><td>fill_parent</td><td>ffffffff</td><td></td></tr>
      * <tr><td>match_parent</td><td>ffffffff</td><td></td></tr>
+     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
      * @attr name android:layout_height
@@ -7120,19 +7121,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>end</td><td>800005</td><td></td></tr>
-     * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>bottom</td><td>50</td><td></td></tr>
      * <tr><td>center</td><td>11</td><td></td></tr>
      * <tr><td>center_horizontal</td><td>1</td><td></td></tr>
      * <tr><td>center_vertical</td><td>10</td><td></td></tr>
      * <tr><td>clip_horizontal</td><td>8</td><td></td></tr>
      * <tr><td>clip_vertical</td><td>80</td><td></td></tr>
+     * <tr><td>end</td><td>800005</td><td></td></tr>
      * <tr><td>fill</td><td>77</td><td></td></tr>
      * <tr><td>fill_horizontal</td><td>7</td><td></td></tr>
      * <tr><td>fill_vertical</td><td>70</td><td></td></tr>
      * <tr><td>left</td><td>3</td><td></td></tr>
      * <tr><td>right</td><td>5</td><td></td></tr>
+     * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
@@ -7825,19 +7826,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>end</td><td>800005</td><td></td></tr>
-     * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>bottom</td><td>50</td><td></td></tr>
      * <tr><td>center</td><td>11</td><td></td></tr>
      * <tr><td>center_horizontal</td><td>1</td><td></td></tr>
      * <tr><td>center_vertical</td><td>10</td><td></td></tr>
      * <tr><td>clip_horizontal</td><td>8</td><td></td></tr>
      * <tr><td>clip_vertical</td><td>80</td><td></td></tr>
+     * <tr><td>end</td><td>800005</td><td></td></tr>
      * <tr><td>fill</td><td>77</td><td></td></tr>
      * <tr><td>fill_horizontal</td><td>7</td><td></td></tr>
      * <tr><td>fill_vertical</td><td>70</td><td></td></tr>
      * <tr><td>left</td><td>3</td><td></td></tr>
      * <tr><td>right</td><td>5</td><td></td></tr>
+     * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
@@ -7973,19 +7974,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>end</td><td>800005</td><td></td></tr>
-     * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>bottom</td><td>50</td><td></td></tr>
      * <tr><td>center</td><td>11</td><td></td></tr>
      * <tr><td>center_horizontal</td><td>1</td><td></td></tr>
      * <tr><td>center_vertical</td><td>10</td><td></td></tr>
      * <tr><td>clip_horizontal</td><td>8</td><td></td></tr>
      * <tr><td>clip_vertical</td><td>80</td><td></td></tr>
+     * <tr><td>end</td><td>800005</td><td></td></tr>
      * <tr><td>fill</td><td>77</td><td></td></tr>
      * <tr><td>fill_horizontal</td><td>7</td><td></td></tr>
      * <tr><td>fill_vertical</td><td>70</td><td></td></tr>
      * <tr><td>left</td><td>3</td><td></td></tr>
      * <tr><td>right</td><td>5</td><td></td></tr>
+     * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
@@ -8007,9 +8008,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
      * <tr><td>fill_parent</td><td>ffffffff</td><td></td></tr>
      * <tr><td>match_parent</td><td>ffffffff</td><td></td></tr>
+     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
      * @attr name android:layout_width
@@ -8030,9 +8031,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
      * <tr><td>fill_parent</td><td>ffffffff</td><td></td></tr>
      * <tr><td>match_parent</td><td>ffffffff</td><td></td></tr>
+     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
      * @attr name android:layout_height
@@ -8184,8 +8185,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>all</td><td>1</td><td></td></tr>
+     * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>single</td><td>2</td><td></td></tr>
      * </table>
      *
@@ -8973,6 +8974,14 @@ public final class R {
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>auto</td><td>10</td><td></td></tr>
+     * </table>
      *
      * @attr name android:focusable
      */
@@ -9000,9 +9009,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>date</td><td>14</td><td></td></tr>
      * <tr><td>datetime</td><td>4</td><td></td></tr>
+     * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>number</td><td>2</td><td></td></tr>
      * <tr><td>numberDecimal</td><td>2002</td><td></td></tr>
      * <tr><td>numberPassword</td><td>12</td><td></td></tr>
@@ -9047,7 +9056,6 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>normal</td><td>0</td><td></td></tr>
      * <tr><td>actionDone</td><td>6</td><td></td></tr>
      * <tr><td>actionGo</td><td>2</td><td></td></tr>
      * <tr><td>actionNext</td><td>5</td><td></td></tr>
@@ -9063,6 +9071,8 @@ public final class R {
      * <tr><td>flagNoEnterAction</td><td>40000000</td><td></td></tr>
      * <tr><td>flagNoExtractUi</td><td>10000000</td><td></td></tr>
      * <tr><td>flagNoFullscreen</td><td>2000000</td><td></td></tr>
+     * <tr><td>flagNoPersonalizedLearning</td><td>1000000</td><td></td></tr>
+     * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
      * @attr name android:imeOptions
@@ -9337,9 +9347,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
      * <tr><td>fill_parent</td><td>ffffffff</td><td></td></tr>
      * <tr><td>match_parent</td><td>ffffffff</td><td></td></tr>
+     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
      * @attr name android:dropDownWidth
@@ -9826,9 +9836,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>normal</td><td>0</td><td></td></tr>
      * <tr><td>bold</td><td>1</td><td></td></tr>
      * <tr><td>italic</td><td>2</td><td></td></tr>
+     * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
      * @attr name android:textStyle
@@ -11624,19 +11634,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>end</td><td>800005</td><td></td></tr>
-     * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>bottom</td><td>50</td><td></td></tr>
      * <tr><td>center</td><td>11</td><td></td></tr>
      * <tr><td>center_horizontal</td><td>1</td><td></td></tr>
      * <tr><td>center_vertical</td><td>10</td><td></td></tr>
      * <tr><td>clip_horizontal</td><td>8</td><td></td></tr>
      * <tr><td>clip_vertical</td><td>80</td><td></td></tr>
+     * <tr><td>end</td><td>800005</td><td></td></tr>
      * <tr><td>fill</td><td>77</td><td></td></tr>
      * <tr><td>fill_horizontal</td><td>7</td><td></td></tr>
      * <tr><td>fill_vertical</td><td>70</td><td></td></tr>
      * <tr><td>left</td><td>3</td><td></td></tr>
      * <tr><td>right</td><td>5</td><td></td></tr>
+     * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
@@ -11971,6 +11981,14 @@ public final class R {
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>auto</td><td>10</td><td></td></tr>
+     * </table>
      *
      * @attr name android:focusable
      */

@@ -37,7 +37,7 @@ public final class R {
         public static final int title = 0x7f0800bd;
     }
     public static final class layout {
-        public static final int layout_materialdialog = 0x7f0a0030;
+        public static final int layout_materialdialog = 0x7f0a0031;
     }
     public static final class string {
         public static final int action_settings = 0x7f0d0011;

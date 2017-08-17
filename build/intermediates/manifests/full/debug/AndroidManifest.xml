@@ -74,6 +74,7 @@
         <activity android:name="com.usr.usrsimplebleassistent.DianchiInfoShowerActivity" />
         <activity android:name="com.usr.usrsimplebleassistent.GongjuInfoShowerActivity" />
         <activity android:name="com.usr.usrsimplebleassistent.WaisheInfoShowerActivity" />
+        <activity android:name="com.usr.usrsimplebleassistent.views.ButtonsDIYSetting" />
     </application>
 
 </manifest>
