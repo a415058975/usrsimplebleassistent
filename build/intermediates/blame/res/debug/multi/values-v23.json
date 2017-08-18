@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+        "outputFile": "D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 185
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 260
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 347
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -69,7 +69,7 @@
                     "endOffset": 675
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -90,7 +90,7 @@
                     "endOffset": 1015
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -110,7 +110,7 @@
                     "endOffset": 1120
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -123,7 +123,7 @@
         ]
     },
     {
-        "outputFile": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+        "outputFile": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
         "map": [
             {
                 "to": {
@@ -134,7 +134,7 @@
                     "endOffset": 185
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-v23/values-v23.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -153,7 +153,7 @@
                     "endOffset": 260
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-v23/values-v23.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -172,7 +172,7 @@
                     "endOffset": 347
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-v23/values-v23.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -192,7 +192,7 @@
                     "endOffset": 675
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-v23/values-v23.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -213,7 +213,7 @@
                     "endOffset": 1015
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-v23/values-v23.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -233,7 +233,130 @@
                     "endOffset": 1120
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-v23/values-v23.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1703,
+                        "endColumn": 104,
+                        "endOffset": 1803
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 134,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 134,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 74,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 74,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 86,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 86,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1015
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1020,
+                    "endColumn": 104,
+                    "endOffset": 1120
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,

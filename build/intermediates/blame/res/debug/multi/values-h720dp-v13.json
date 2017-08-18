@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "outputFile": "D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-h720dp/values-h720dp.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-h720dp\\values-h720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +35,31 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-h720dp\\values-h720dp.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-h720dp\\values-h720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 66,
+                        "endOffset": 341
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-h720dp\\values-h720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

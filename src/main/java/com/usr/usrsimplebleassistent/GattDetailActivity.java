@@ -4,12 +4,14 @@ import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.animation.ArgbEvaluator;
 import android.animation.ObjectAnimator;
+import android.app.Activity;
 import android.bluetooth.BluetoothDevice;
 import android.bluetooth.BluetoothGatt;
 import android.bluetooth.BluetoothGattCharacteristic;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.os.Build;
 import android.os.Bundle;
@@ -65,6 +67,12 @@ import butterknife.OnClick;
 import me.drakeet.materialdialog.MaterialDialog;
 
 public class GattDetailActivity extends MyBaseActivity {
+
+    private Button key1,key2,key3,key4,key5,key6,key7,key8;
+    public static final String DATABASE = "Database";
+    SharedPreferences sp ;
+    // 获取Editor对象
+    SharedPreferences.Editor editor ;
 
     @Bind(R.id.btn_options)
     ImageButton btnOptions;
@@ -343,17 +351,158 @@ public class GattDetailActivity extends MyBaseActivity {
 
     };
 
+    private boolean iscontentright(String str){
+        if(!str.trim().equals("")){
+            return true;
+        }else{
+            return false;
+        }
+
+    }
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_gatt_detail);
+        key1 = (Button) findViewById (R.id.button1);
+        key2 = (Button) findViewById (R.id.button2);
+        key3 = (Button) findViewById (R.id.button3);
+        key4 = (Button) findViewById (R.id.button4);
+        key5 = (Button) findViewById (R.id.button5);
+        key6 = (Button) findViewById (R.id.button6);
+        key7 = (Button) findViewById (R.id.button7);
+        key8 = (Button) findViewById (R.id.button8);
+        sp = getSharedPreferences(DATABASE, Activity.MODE_PRIVATE);
+        editor = sp.edit();
+
+        if(iscontentright(sp.getString("b1v", ""))){
+            key1.setEnabled(true);
+            key1.setText(sp.getString("b1n", "KEY 1"));
+            key1.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    Message msg = new Message(Message.MESSAGE_TYPE.SEND,""+"命令内容："+sp.getString("b1v", ""));
+                    notifyAdapter(msg);
+                    writeOption(Utils.hexstr2bytearray(sp.getString("b1v", "")));
+                }
+            });
+        }else{
+            key1.setEnabled(false);
+        }
+
+        if(iscontentright(sp.getString("b2v", ""))){
+            key2.setEnabled(true);
+            key2.setText(sp.getString("b2n", "KEY 2"));
+            key2.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    Message msg = new Message(Message.MESSAGE_TYPE.SEND,""+"命令内容："+sp.getString("b2v", ""));
+                    notifyAdapter(msg);
+                    writeOption(Utils.hexstr2bytearray(sp.getString("b2v", "")));
+                }
+            });
+        }else{
+            key2.setEnabled(false);
+        }
+
+        if(iscontentright(sp.getString("b3v", ""))){
+            key3.setEnabled(true);
+            key3.setText(sp.getString("b3n", "KEY 3"));
+            key3.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    Message msg = new Message(Message.MESSAGE_TYPE.SEND,""+"命令内容："+sp.getString("b3v", ""));
+                    notifyAdapter(msg);
+                    writeOption(Utils.hexstr2bytearray(sp.getString("b3v", "")));
+                }
+            });
+        }else{
+            key3.setEnabled(false);
+        }
+
+        if(iscontentright(sp.getString("b4v", ""))){
+            key4.setEnabled(true);
+            key4.setText(sp.getString("b4n", "KEY 4"));
+            key4.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    Message msg = new Message(Message.MESSAGE_TYPE.SEND,""+"命令内容："+sp.getString("b4v", ""));
+                    notifyAdapter(msg);
+                    writeOption(Utils.hexstr2bytearray(sp.getString("b4v", "")));
+                }
+            });
+        }else{
+            key4.setEnabled(false);
+        }
+
+        if(iscontentright(sp.getString("b5v", ""))){
+            key5.setEnabled(true);
+            key5.setText(sp.getString("b5n", "KEY 5"));
+            key5.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    Message msg = new Message(Message.MESSAGE_TYPE.SEND,""+"命令内容："+sp.getString("b5v", ""));
+                    notifyAdapter(msg);
+                    writeOption(Utils.hexstr2bytearray(sp.getString("b5v", "")));
+                }
+            });
+        }else{
+            key5.setEnabled(false);
+        }
+
+        if(iscontentright(sp.getString("b6v", ""))){
+            key6.setEnabled(true);
+            key6.setText(sp.getString("b6n", "KEY 6"));
+            key6.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    Message msg = new Message(Message.MESSAGE_TYPE.SEND,""+"命令内容："+sp.getString("b6v", ""));
+                    notifyAdapter(msg);
+                    writeOption(Utils.hexstr2bytearray(sp.getString("b6v", "")));
+                }
+            });
+        }else{
+            key6.setEnabled(false);
+        }
+
+        if(iscontentright(sp.getString("b7v", ""))){
+            key7.setEnabled(true);
+            key7.setText(sp.getString("b7n", "KEY 7"));
+            key7.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    Message msg = new Message(Message.MESSAGE_TYPE.SEND,""+"命令内容："+sp.getString("b7v", ""));
+                    notifyAdapter(msg);
+                    writeOption(Utils.hexstr2bytearray(sp.getString("b7v", "")));
+                }
+            });
+        }else{
+            key7.setEnabled(false);
+        }
+
+        if(iscontentright(sp.getString("b8v", ""))){
+            key8.setEnabled(true);
+            key8.setText(sp.getString("b8n", "KEY 8"));
+            key8.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    Message msg = new Message(Message.MESSAGE_TYPE.SEND,""+"命令内容："+sp.getString("b8v", ""));
+                    notifyAdapter(msg);
+                    writeOption(Utils.hexstr2bytearray(sp.getString("b8v", "")));
+                }
+            });
+        }else{
+            key8.setEnabled(false);
+        }
+
+
+
+
         ButterKnife.bind(this);
         bindToolBar();
         myApplication = (MyApplication) getApplication();
         optionsMenuManager = OptionsMenuManager.getInstance();
-
-
 
         LinearLayoutManager llm = new LinearLayoutManager(this);
         rvMsg.setLayoutManager(llm);
@@ -687,6 +836,9 @@ public class GattDetailActivity extends MyBaseActivity {
             notifyAdapter(msg);
         }else if(b[3] == 0x22){
             Message msg = new Message(Message.MESSAGE_TYPE.SEND,""+"发送外设信息请求");
+            notifyAdapter(msg);
+        }else if((b[3]&0xFF) == 0x90){
+            Message msg = new Message(Message.MESSAGE_TYPE.SEND,""+"发送透传命令");
             notifyAdapter(msg);
         }
 

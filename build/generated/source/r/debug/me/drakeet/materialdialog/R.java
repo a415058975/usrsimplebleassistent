@@ -28,13 +28,13 @@ public final class R {
     public static final class id {
         public static final int btn_n = 0x7f08001b;
         public static final int btn_p = 0x7f08001f;
-        public static final int buttonLayout = 0x7f080024;
-        public static final int contentView = 0x7f080033;
-        public static final int material_background = 0x7f08006f;
-        public static final int message = 0x7f080074;
-        public static final int message_content_root = 0x7f080075;
-        public static final int message_content_view = 0x7f080076;
-        public static final int title = 0x7f0800bd;
+        public static final int buttonLayout = 0x7f08002c;
+        public static final int contentView = 0x7f08003b;
+        public static final int material_background = 0x7f080087;
+        public static final int message = 0x7f08008c;
+        public static final int message_content_root = 0x7f08008d;
+        public static final int message_content_view = 0x7f08008e;
+        public static final int title = 0x7f0800d7;
     }
     public static final class layout {
         public static final int layout_materialdialog = 0x7f0a0031;

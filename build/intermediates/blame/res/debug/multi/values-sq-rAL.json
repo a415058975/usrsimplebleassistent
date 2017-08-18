@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq-rAL\\values-sq-rAL.xml",
+        "outputFile": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq-rAL\\values-sq-rAL.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 272
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 395
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 495
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 607
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 694
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 804
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 927
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1010
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1116
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1221
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1319
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1425
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1528
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1644
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1775
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1874
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1975
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -347,7 +347,7 @@
         ]
     },
     {
-        "outputFile": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq-rAL/values-sq-rAL.xml",
+        "outputFile": "D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq-rAL\\values-sq-rAL.xml",
         "map": [
             {
                 "to": {
@@ -358,7 +358,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -377,7 +377,7 @@
                     "endOffset": 272
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -396,7 +396,7 @@
                     "endOffset": 395
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -415,7 +415,7 @@
                     "endOffset": 495
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -434,7 +434,7 @@
                     "endOffset": 607
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -453,7 +453,7 @@
                     "endOffset": 694
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -472,7 +472,7 @@
                     "endOffset": 804
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -491,7 +491,7 @@
                     "endOffset": 927
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -510,7 +510,7 @@
                     "endOffset": 1010
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -529,7 +529,7 @@
                     "endOffset": 1116
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -548,7 +548,7 @@
                     "endOffset": 1221
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -567,7 +567,7 @@
                     "endOffset": 1319
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -586,7 +586,7 @@
                     "endOffset": 1425
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -605,7 +605,7 @@
                     "endOffset": 1528
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -624,7 +624,7 @@
                     "endOffset": 1644
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -643,7 +643,7 @@
                     "endOffset": 1775
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -662,7 +662,7 @@
                     "endOffset": 1874
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -681,7 +681,354 @@
                     "endOffset": 1975
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2104,
+                        "endColumn": 100,
+                        "endOffset": 2200
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq-rAL\\values-sq-rAL.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 113,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 113,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 107,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 107,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 122,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 122,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 99,
+                    "endOffset": 495
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 625,
+                        "endColumn": 99,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 500,
+                    "endColumn": 111,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 111,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 86,
+                    "endOffset": 694
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 837,
+                        "endColumn": 86,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 699,
+                    "endColumn": 109,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 924,
+                        "endColumn": 109,
+                        "endOffset": 1029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 809,
+                    "endColumn": 122,
+                    "endOffset": 927
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1034,
+                        "endColumn": 122,
+                        "endOffset": 1152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 932,
+                    "endColumn": 82,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1157,
+                        "endColumn": 82,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 105,
+                    "endOffset": 1116
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 105,
+                        "endOffset": 1341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1121,
+                    "endColumn": 104,
+                    "endOffset": 1221
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1346,
+                        "endColumn": 104,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1226,
+                    "endColumn": 97,
+                    "endOffset": 1319
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1451,
+                        "endColumn": 97,
+                        "endOffset": 1544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1324,
+                    "endColumn": 105,
+                    "endOffset": 1425
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1549,
+                        "endColumn": 105,
+                        "endOffset": 1650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1430,
+                    "endColumn": 102,
+                    "endOffset": 1528
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1655,
+                        "endColumn": 102,
+                        "endOffset": 1753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1533,
+                    "endColumn": 115,
+                    "endOffset": 1644
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1758,
+                        "endColumn": 115,
+                        "endOffset": 1869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1649,
+                    "endColumn": 130,
+                    "endOffset": 1775
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1874,
+                        "endColumn": 130,
+                        "endOffset": 2000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1780,
+                    "endColumn": 98,
+                    "endOffset": 1874
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2005,
+                        "endColumn": 98,
+                        "endOffset": 2099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1879,
+                    "endColumn": 100,
+                    "endOffset": 1975
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

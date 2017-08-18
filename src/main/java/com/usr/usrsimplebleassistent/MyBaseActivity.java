@@ -47,7 +47,9 @@ public class MyBaseActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()){
             case R.id.menu_share:
-                 share();
+                 //share();
+                Intent it2 = new Intent(MyBaseActivity.this, ButtonsDIYSettingActivity.class);
+                startActivity(it2);
                 break;
             case R.id.menu_usr:
                 System.out.println("--------------->usr");

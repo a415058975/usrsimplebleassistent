@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az-rAZ/values-az-rAZ.xml",
+        "outputFile": "D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az-rAZ\\values-az-rAZ.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 148
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 256
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 379
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 478
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 588
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 676
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 783
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 897
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 982
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1089
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1196
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1296
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1405
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1509
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1619
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1716
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1817
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-az-rAZ/values-az-rAZ.xml",
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -328,7 +328,7 @@
         ]
     },
     {
-        "outputFile": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az-rAZ\\values-az-rAZ.xml",
+        "outputFile": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az-rAZ\\values-az-rAZ.xml",
         "map": [
             {
                 "to": {
@@ -339,7 +339,7 @@
                     "endOffset": 148
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -358,7 +358,7 @@
                     "endOffset": 256
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -377,7 +377,7 @@
                     "endOffset": 379
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -396,7 +396,7 @@
                     "endOffset": 478
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -415,7 +415,7 @@
                     "endOffset": 588
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -434,7 +434,7 @@
                     "endOffset": 676
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -453,7 +453,7 @@
                     "endOffset": 783
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -472,7 +472,7 @@
                     "endOffset": 897
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -491,7 +491,7 @@
                     "endOffset": 982
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -510,7 +510,7 @@
                     "endOffset": 1089
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -529,7 +529,7 @@
                     "endOffset": 1196
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -548,7 +548,7 @@
                     "endOffset": 1296
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -567,7 +567,7 @@
                     "endOffset": 1405
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -586,7 +586,7 @@
                     "endOffset": 1509
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -605,7 +605,7 @@
                     "endOffset": 1619
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -624,7 +624,7 @@
                     "endOffset": 1716
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -643,7 +643,335 @@
                     "endOffset": 1817
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1946,
+                        "endColumn": 100,
+                        "endOffset": 2042
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az-rAZ\\values-az-rAZ.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 97,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 97,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 107,
+                    "endOffset": 256
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 107,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 261,
+                    "endColumn": 122,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 122,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 98,
+                    "endOffset": 478
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 98,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 483,
+                    "endColumn": 109,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 109,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 87,
+                    "endOffset": 676
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 87,
+                        "endOffset": 901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 681,
+                    "endColumn": 106,
+                    "endOffset": 783
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endColumn": 106,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 788,
+                    "endColumn": 113,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 113,
+                        "endOffset": 1122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 84,
+                    "endOffset": 982
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1127,
+                        "endColumn": 84,
+                        "endOffset": 1207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 987,
+                    "endColumn": 106,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1212,
+                        "endColumn": 106,
+                        "endOffset": 1314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 106,
+                    "endOffset": 1196
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1319,
+                        "endColumn": 106,
+                        "endOffset": 1421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1201,
+                    "endColumn": 99,
+                    "endOffset": 1296
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1426,
+                        "endColumn": 99,
+                        "endOffset": 1521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1301,
+                    "endColumn": 108,
+                    "endOffset": 1405
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1526,
+                        "endColumn": 108,
+                        "endOffset": 1630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1410,
+                    "endColumn": 103,
+                    "endOffset": 1509
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1635,
+                        "endColumn": 103,
+                        "endOffset": 1734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1514,
+                    "endColumn": 109,
+                    "endOffset": 1619
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1739,
+                        "endColumn": 109,
+                        "endOffset": 1844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1624,
+                    "endColumn": 96,
+                    "endOffset": 1716
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1849,
+                        "endColumn": 96,
+                        "endOffset": 1941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1721,
+                    "endColumn": 100,
+                    "endOffset": 1817
+                },
+                "from": {
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,

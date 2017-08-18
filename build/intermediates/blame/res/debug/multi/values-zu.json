@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
+        "outputFile": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 266
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 389
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 496
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 610
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 698
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 801
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 928
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1014
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1118
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1224
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1322
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1429
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1535
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1641
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1761
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1857
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1958
                 },
                 "from": {
-                    "file": "/home/dh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/109da6d8b574c39a1481ba699e04d9ac/res/values-zu/values-zu.xml",
+                    "file": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -347,7 +347,7 @@
         ]
     },
     {
-        "outputFile": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
+        "outputFile": "D:\\home\\dh\\AndroidStudioProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
         "map": [
             {
                 "to": {
@@ -358,7 +358,7 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -377,7 +377,7 @@
                     "endOffset": 266
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -396,7 +396,7 @@
                     "endOffset": 389
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -415,7 +415,7 @@
                     "endOffset": 496
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -434,7 +434,7 @@
                     "endOffset": 610
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -453,7 +453,7 @@
                     "endOffset": 698
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -472,7 +472,7 @@
                     "endOffset": 801
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -491,7 +491,7 @@
                     "endOffset": 928
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -510,7 +510,7 @@
                     "endOffset": 1014
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -529,7 +529,7 @@
                     "endOffset": 1118
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -548,7 +548,7 @@
                     "endOffset": 1224
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -567,7 +567,7 @@
                     "endOffset": 1322
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -586,7 +586,7 @@
                     "endOffset": 1429
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -605,7 +605,7 @@
                     "endOffset": 1535
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -624,7 +624,7 @@
                     "endOffset": 1641
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -643,7 +643,7 @@
                     "endOffset": 1761
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -662,7 +662,7 @@
                     "endOffset": 1857
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -681,7 +681,354 @@
                     "endOffset": 1958
                 },
                 "from": {
-                    "file": "/home/dh/AndroidStudioProjects/usrsimplebleassistent/C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "file": "D:\\home\\dh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\109da6d8b574c39a1481ba699e04d9ac\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2083,
+                        "endColumn": 100,
+                        "endOffset": 2179
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\AndroidProjects\\usrsimplebleassistent\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 107,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 107,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 107,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 122,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 122,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 106,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 106,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 113,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 113,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 87,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 87,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 102,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 924,
+                        "endColumn": 102,
+                        "endOffset": 1022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 126,
+                    "endOffset": 928
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1027,
+                        "endColumn": 126,
+                        "endOffset": 1149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 933,
+                    "endColumn": 85,
+                    "endOffset": 1014
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1154,
+                        "endColumn": 85,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endColumn": 103,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 103,
+                        "endOffset": 1339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endColumn": 105,
+                    "endOffset": 1224
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1344,
+                        "endColumn": 105,
+                        "endOffset": 1445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1229,
+                    "endColumn": 97,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1450,
+                        "endColumn": 97,
+                        "endOffset": 1543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endColumn": 106,
+                    "endOffset": 1429
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1548,
+                        "endColumn": 106,
+                        "endOffset": 1650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1434,
+                    "endColumn": 105,
+                    "endOffset": 1535
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1655,
+                        "endColumn": 105,
+                        "endOffset": 1756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1540,
+                    "endColumn": 105,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1761,
+                        "endColumn": 105,
+                        "endOffset": 1862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endColumn": 119,
+                    "endOffset": 1761
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1867,
+                        "endColumn": 119,
+                        "endOffset": 1982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1766,
+                    "endColumn": 95,
+                    "endOffset": 1857
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1987,
+                        "endColumn": 95,
+                        "endOffset": 2078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1862,
+                    "endColumn": 100,
+                    "endOffset": 1958
+                },
+                "from": {
+                    "file": "C:\\Users\\win\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\53ee80823a0e6f8b4bf729ddfded5374\\res\\values-zu\\values-zu.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
